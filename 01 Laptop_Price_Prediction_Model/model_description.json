@@ -1,0 +1,23 @@
+{
+    "project": "Laptop Price Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 0.797110889504034,
+        "l1_ratio": 0.99,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 0.797110889504034,
+        "l1_ratio": 0.99,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 228.60669590794012,
+        "MAE": 155.90716031557454,
+        "R2_train": 0.8216400136591555,
+        "R2_test": 0.7133929746551522,
+        "R2_full": 0.805481807798749,
+        "Mean_Laptop_Price": 741.7807212317665
+    }
+}
