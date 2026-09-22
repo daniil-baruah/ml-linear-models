@@ -1,0 +1,1258 @@
+Company,TypeName,Screen_Size,Resolution,Touchscreen,IPS,CPU,Clock_Speed,RAM,GPU,HDD,SSD,Flash_Storage,OpSys,Weight,Price
+Apple,Ultrabook,13.3,2560x1600,No,Yes,Intel Core i5,2.3,8,Intel Iris Plus Graphics,0,128,0,MacOS,1.37,899.37
+Apple,Ultrabook,13.3,1440x900,No,No,Intel Core i5,1.8,8,Intel HD Graphics,0,0,128,MacOS,1.34,603.48
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,No OS,1.86,386.01
+Apple,Ultrabook,15.4,2880x1800,No,Yes,Intel Core i7,2.7,16,AMD Radeon Pro ,0,512,0,MacOS,1.83,1703.46
+Apple,Ultrabook,13.3,2560x1600,No,Yes,Intel Core i5,3.1,8,Intel Iris Plus Graphics,0,256,0,MacOS,1.37,1210.81
+Acer,Notebook,15.6,1366x768,No,No,AMD A9-Series,3.0,4,AMD Radeon R5,500,0,0,Windows,2.1,268.53
+Apple,Ultrabook,15.4,2880x1800,No,Yes,Intel Core i7,2.2,16,Intel Iris Pro Graphics,0,0,256,MacOS,2.04,1436.62
+Apple,Ultrabook,13.3,1440x900,No,No,Intel Core i5,1.8,8,Intel HD Graphics,0,0,256,MacOS,1.34,777.87
+Asus,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,1.8,16,Nvidia GeForce,0,512,0,Windows,1.3,1003.64
+Acer,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.6,516.92
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,No OS,1.86,264.44
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,No OS,1.86,231.6
+Apple,Ultrabook,15.4,2880x1800,No,Yes,Intel Core i7,2.8,16,AMD Radeon Pro ,0,256,0,MacOS,1.83,1638.02
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,AMD Radeon R5,0,256,0,Windows,2.2,334.93
+Apple,Ultrabook,12.0,2304x1440,No,Yes,Intel Core M,1.2,8,Intel HD Graphics,0,256,0,MacOS,0.92,847.48
+Apple,Ultrabook,13.3,2560x1600,No,Yes,Intel Core i5,2.3,8,Intel Iris Plus Graphics,0,256,0,MacOS,1.37,1019.45
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,AMD Radeon R5,0,256,0,Windows,2.2,500.14
+Apple,Ultrabook,15.4,2880x1800,No,Yes,Intel Core i7,2.9,16,AMD Radeon Pro ,0,512,0,MacOS,1.83,1918.66
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.4,8,Nvidia GeForce,1000,0,0,No OS,2.2,334.99
+Dell,Ultrabook,13.3,1920x1080,Yes,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,128,0,Windows,1.22,657.23
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,2.5,670.66
+HP,Notebook,15.6,1366x768,No,No,AMD E-Series,1.5,4,AMD Radeon R2,500,0,0,No OS,1.86,173.2
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.62,549.82
+HP,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,Intel HD Graphics,0,256,0,Windows,1.91,442.41
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Windows,2.3,281.04
+Apple,Ultrabook,13.3,1440x900,No,No,Intel Core i5,1.6,8,Intel HD Graphics,0,0,128,MacOS,1.35,737.79
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,0,256,0,Windows,2.2,537.06
+Dell,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,1.9,8,Intel UHD Graphics,0,512,0,Windows,1.88,871.38
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i5,1.6,8,Nvidia GeForce,1000,0,0,Windows,2.5,601.51
+Chuwi,Notebook,15.6,1920x1080,No,No,Intel Atom,1.44,4,Intel HD Graphics,0,0,64,Windows,1.89,164.47
+Asus,Notebook,14.0,1366x768,No,No,AMD E-Series,1.5,2,AMD Radeon R2,0,0,32,Windows,1.65,133.59
+HP,Notebook,17.3,1920x1080,No,No,AMD A6-Series,2.5,4,AMD Radeon ,500,0,0,Windows,2.71,294.71
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i7,1.8,16,Intel UHD Graphics,0,512,0,Windows,1.2,1254.71
+Apple,Ultrabook,13.3,1440x900,No,No,Intel Core i5,1.6,8,Intel HD Graphics,0,0,256,MacOS,1.35,669.99
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,64,Windows,1.44,167.16
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.7,4,Intel HD Graphics,1000,0,0,Linux,2.1,246.38
+Dell,Notebook,17.3,1920x1080,No,Yes,Intel Core i5,1.6,8,AMD Radeon ,1000,128,0,Windows,2.8,657.23
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,1000,0,0,Windows,1.86,328.07
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,Nvidia GeForce,0,256,0,Windows,2.1,590.1
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Linux,2.0,261.15
+Dell,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.65,1006.32
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Nvidia GeForce,1000,0,0,Linux,2.3,351.1
+Acer,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,1.6,4,Intel UHD Graphics,0,256,0,Windows,2.2,457.85
+Dell,2 in 1 Convertible,17.3,1920x1080,Yes,No,Intel Core i5,1.6,12,Nvidia GeForce,1000,0,0,Windows,2.77,670.66
+Apple,Ultrabook,13.3,2560x1600,No,Yes,Intel Core i5,2.0,8,Intel Iris Graphics,0,256,0,MacOS,1.37,952.61
+Asus,Gaming,17.3,1920x1080,No,No,AMD Ryzen 7,3.0,8,AMD Radeon RX ,1000,256,0,Windows,3.2,872.06
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,AMD Radeon R5,0,256,0,Windows,2.3,428.98
+Asus,Notebook,17.3,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Nvidia GeForce,1000,0,0,Windows,2.8,312.84
+Acer,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,8,Nvidia GeForce,0,256,0,Windows,2.2,564.59
+HP,Notebook,15.6,1920x1080,No,No,AMD A6-Series,2.5,4,AMD Radeon R4,0,256,0,Windows,1.86,267.52
+HP,Notebook,13.3,1920x1080,No,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,512,0,Windows,1.49,740.47
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,1000,0,0,Windows,2.4,257.79
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,0,256,0,Windows,2.13,515.45
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Windows,1.91,294.71
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,2.0,393.53
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,2000,256,0,Windows,2.43,1644.08
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,256,0,Linux,2.0,278.6
+Dell,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,16,AMD Radeon ,2000,256,0,Windows,2.8,872.06
+Dell,Ultrabook,14.0,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.7,590.1
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i3,2.7,8,Intel HD Graphics,0,256,0,No OS,1.7,402.13
+Asus,Notebook,14.0,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.4,631.72
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.86,463.22
+Asus,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,Windows,1.8,1331.24
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon ,500,0,0,Windows,1.86,294.5
+HP,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,32,0,Windows,1.44,153.73
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,1000,0,0,Windows,1.9,368.56
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,12,Nvidia GeForce GTX,1000,0,0,Linux,3.0,637.09
+Microsoft,Ultrabook,13.5,2256x1504,Yes,No,Intel Core i5,2.5,4,Intel HD Graphics,0,128,0,Windows,1.252,731.08
+Dell,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i7,1.8,64,AMD Radeon ,0,256,0,Windows,1.4,641.12
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,0,256,0,Windows,2.2,584.06
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,2.7,735.1
+Acer,Notebook,14.0,1366x768,No,No,Intel Core i3,2.0,8,Intel HD Graphics,1000,0,0,Windows,2.1,261.15
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Windows,2.2,637.09
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,2000,0,0,No OS,2.2,348.42
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,Intel UHD Graphics,1000,128,0,Windows,2.02,573.99
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.7,4,Nvidia GeForce,1000,0,0,Windows,2.2,355.8
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i5,1.6,8,Nvidia GeForce,1000,128,0,Windows,2.5,655.89
+Dell,Ultrabook,15.6,1920x1080,No,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.88,735.88
+Apple,Ultrabook,12.0,2304x1440,No,Yes,Intel Core i5,1.3,8,Intel HD Graphics,0,512,0,MacOS,0.92,1013.71
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,1.6,8,Intel HD Graphics,0,256,0,Windows,1.63,577.34
+Lenovo,Notebook,15.6,1920x1080,No,No,AMD A6-Series,2.5,4,AMD R4,0,128,0,Windows,2.2,267.86
+Acer,Notebook,15.6,1366x768,No,No,AMD A9-Series,3.0,4,AMD Radeon R5,1000,0,0,Windows,2.1,265.17
+Dell,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,128,0,Windows,2.65,905.62
+HP,Ultrabook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,8,Nvidia GeForce GTX,0,256,0,Windows,1.83,469.26
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.96,402.12
+Asus,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,128,0,Windows,2.2,972.75
+Dell,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.21,1107.02
+Asus,Gaming,15.6,1920x1080,No,No,AMD FX,3.0,8,AMD Radeon RX ,1000,0,0,Windows,2.45,469.26
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,2,Nvidia GeForce,1000,0,0,Windows,2.2,462.54
+HP,Notebook,13.3,1920x1080,No,No,Intel Core i7,1.8,16,Intel UHD Graphics,0,512,0,Windows,1.49,803.58
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.65,802.24
+Asus,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.25,704.22
+Acer,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.5,568.61
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,AMD Radeon R5,1000,0,0,Linux,2.2,402.73
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,AMD Radeon R5,0,256,0,Linux,2.2,325.59
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.4,6,Nvidia GeForce,0,256,0,Windows,2.0,387.36
+HP,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,12,Nvidia GeForce GTX,1000,128,0,Windows,2.62,838.49
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,AMD Radeon ,0,256,0,Windows,1.91,482.68
+HP,Notebook,15.6,1920x1080,No,No,AMD E-Series,1.5,4,AMD Radeon R2,500,0,0,Windows,2.1,234.29
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,1000,0,0,Linux,2.2,434.35
+HP,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,1.38,751.22
+Microsoft,Ultrabook,13.5,2256x1504,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.252,899.58
+HP,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,6,Nvidia GeForce,0,256,0,Windows,1.58,442.41
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Windows,1.85,278.53
+Asus,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,1.3,800.89
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.2,872.06
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.58,993.57
+Asus,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,1.8,16,Nvidia GeForce,1000,256,0,Windows,1.5,847.22
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i7,2.4,8,Intel Iris Plus Graphics,0,256,0,Windows,1.23,925.76
+Lenovo,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.37,939.19
+HP,Notebook,14.0,1366x768,No,Yes,Intel Core i5,1.6,4,Intel UHD Graphics,500,0,0,Windows,1.63,484.7
+Dell,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.21,1093.59
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,512,0,Windows,1.63,727.72
+Dell,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,8,Nvidia GeForce,1000,256,0,Windows,2.16,758.82
+Asus,Notebook,17.3,1920x1080,No,No,Intel Core i3,2.0,4,Nvidia GeForce,1000,0,0,Windows,2.0,378.63
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,Nvidia GeForce,0,256,0,Windows,1.7,750.54
+Acer,Notebook,15.6,1920x1080,Yes,Yes,Intel Core i3,2.4,6,Intel HD Graphics,1000,0,0,Windows,2.1,321.57
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,2000,256,0,Windows,1.8,1504.78
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,No OS,2.2,422.27
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,16,Nvidia GeForce,0,512,0,Windows,2.5,853.26
+Acer,Notebook,15.6,1366x768,No,No,AMD A9-Series,3.0,4,AMD Radeon R5,0,256,0,Windows,2.1,302.77
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,1000,0,0,Windows,1.63,545.12
+Asus,Notebook,14.0,1366x768,No,No,AMD E-Series,1.5,4,AMD Radeon R2,0,64,0,Windows,1.65,186.62
+Dell,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,16,AMD Radeon ,2000,256,0,Windows,2.8,937.17
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,2.5,622.99
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,AMD Radeon R7,1000,0,0,Windows,2.36,428.97
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,Windows,2.2,301.43
+Acer,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.6,593.45
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.7,4,Nvidia GeForce,0,256,0,Windows,7.2,384.0
+HP,Notebook,15.6,1366x768,No,No,Intel Core i7,2.7,8,Intel HD Graphics,1000,0,0,Windows,2.05,401.45
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.63,663.27
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,1000,0,0,No OS,1.9,169.42
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,3.0,629.71
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Nvidia GeForce,1000,0,0,No OS,2.2,334.99
+HP,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,1.32,469.26
+Acer,Notebook,17.3,1920x1080,No,Yes,Intel Core i3,2.7,4,Nvidia GeForce,1000,0,0,Windows,3.0,439.72
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,1.6,8,AMD Radeon RX ,0,256,0,Windows,1.75,749.22
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,0,256,0,No OS,2.4,583.38
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,2.1,404.14
+HP,Notebook,15.6,1366x768,No,No,AMD A6-Series,2.5,4,AMD Radeon R4,0,256,0,Windows,1.86,247.72
+Asus,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.25,737.79
+HP,Ultrabook,12.5,3840x2160,Yes,Yes,Intel Core M,1.2,8,Intel HD Graphics,0,512,0,Windows,0.97,1352.05
+Asus,Notebook,15.6,1920x1080,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,1000,0,0,Windows,2.0,230.94
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Windows,2.1,300.08
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,Windows,2.56,838.66
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,128,0,Windows,1.9,334.32
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.8,1268.81
+HP,Ultrabook,14.0,1920x1080,No,No,Intel Core i5,2.7,4,Intel HD Graphics,0,256,0,Windows,1.48,726.38
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,6,AMD Radeon ,0,256,0,Windows,1.91,415.55
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,Yes,Intel Core i3,2.4,4,Intel HD Graphics,0,256,0,Windows,1.74,422.27
+Asus,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,1.6,8,Intel HD Graphics,0,256,0,Windows,1.1,882.8
+Dell,2 in 1 Convertible,15.6,1920x1080,Yes,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.56,704.22
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i3,2.2,4,Intel HD Graphics,500,0,0,Windows,2.1,300.08
+Asus,Notebook,15.6,1366x768,No,No,AMD A9-Series,3.0,4,AMD Radeon R5,1000,0,0,Windows,2.03,270.55
+Acer,Notebook,17.3,1920x1080,No,Yes,Intel Core i5,1.6,4,Nvidia GeForce,0,256,0,Windows,3.0,540.42
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,0,256,0,Windows,2.13,488.73
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,256,0,Windows,2.5,724.36
+Acer,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,1000,0,0,Windows,2.1,233.62
+MSI,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.4,1207.72
+Acer,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,1000,0,0,Windows,2.1,244.03
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.56,711.94
+Acer,Notebook,17.3,1920x1080,No,Yes,Intel Core i5,1.6,8,Nvidia GeForce,0,256,0,Windows,3.0,573.31
+HP,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,1.6,4,Intel UHD Graphics,500,0,0,Windows,1.49,506.18
+Huawei,Ultrabook,13.0,2160x1440,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.05,905.62
+HP,Notebook,17.3,1920x1080,No,Yes,Intel Core i5,2.5,6,AMD Radeon ,2000,0,0,Windows,2.71,469.26
+Lenovo,Notebook,15.6,1366x768,No,No,AMD A6-Series,2.9,4,AMD Radeon R4,500,0,0,No OS,2.2,207.44
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,500,0,0,Windows,5.4,328.28
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i5,1.6,8,Nvidia GeForce,0,256,0,Windows,2.5,619.64
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,8,Intel HD Graphics,1000,0,0,Windows,2.3,308.14
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Windows,2.1,301.43
+MSI,Gaming,18.4,1920x1080,No,No,Intel Core i7,2.9,32,Nvidia GTX,1000,512,0,Windows,4.4,1879.05
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,AMD Radeon ,1000,128,0,Windows,1.9,545.79
+HP,2 in 1 Convertible,13.3,3840x2160,Yes,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.29,1006.32
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,16,AMD Radeon ,2000,256,0,Linux,2.02,704.22
+Dell,Ultrabook,13.3,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.23,939.19
+Lenovo,2 in 1 Convertible,13.9,3840x2160,Yes,Yes,Intel Core i7,1.8,16,Intel UHD Graphics,0,512,0,Windows,1.4,1241.29
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,128,0,Windows,2.0,532.36
+Xiaomi,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,1.6,8,Nvidia GeForce,0,256,0,No OS,1.95,804.92
+Dell,Notebook,17.3,1920x1080,Yes,No,Intel Core i7,1.8,16,Nvidia GeForce,0,512,0,Windows,2.77,1039.89
+Dell,Notebook,15.6,3840x2160,Yes,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,Windows,2.06,1609.17
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,No OS,2.4,522.96
+Acer,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i5,1.2,8,Intel HD Graphics,0,256,0,Windows,1.12,663.94
+Dell,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,1000,128,0,Windows,2.8,728.39
+Vero,Notebook,14.0,1920x1080,No,Yes,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.3,174.55
+Xiaomi,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,No OS,1.3,671.26
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i5,1.6,8,Nvidia GeForce,0,256,0,No OS,2.8,468.59
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,1000,0,0,Windows,1.62,563.24
+HP,Notebook,17.3,1920x1080,No,Yes,Intel Core i5,1.6,8,Nvidia GeForce,1000,0,0,Windows,2.5,613.59
+Razer,Gaming,17.3,3840x2160,Yes,No,Intel Core i7,2.9,32,Nvidia GeForce GTX,0,1000,0,Windows,3.49,4094.43
+HP,Notebook,13.3,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,512,0,Windows,1.49,643.8
+HP,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,3.35,925.76
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,8,Nvidia GeForce,0,256,0,Windows,2.5,701.54
+Dell,Gaming,15.6,3840x2160,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,512,0,Windows,2.65,1238.6
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,0,128,0,Windows,2.1,330.96
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,1000,0,0,Windows,2.23,498.13
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,512,0,Windows,3.2,1174.15
+Dell,Workstation,15.6,3840x2160,No,No,Intel Xeon,3.0,16,Nvidia Quadro,1000,256,0,Windows,2.8,2050.91
+Lenovo,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,No OS,2.4,938.52
+Dell,Notebook,15.6,1366x768,Yes,No,Intel Core i3,2.4,6,Intel HD Graphics,1000,0,0,Windows,2.3,294.71
+Dell,Ultrabook,13.3,3840x2160,Yes,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.21,1308.42
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Linux,2.4,522.96
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.9,944.56
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,No OS,2.1,234.29
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,No OS,2.2,368.56
+Huawei,Ultrabook,13.0,2160x1440,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.05,1006.32
+Dell,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i7,1.8,8,AMD Radeon ,0,256,0,Windows,1.4,625.6
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,0,0,No OS,2.8,395.41
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i7,1.8,8,Nvidia GeForce,0,256,0,Windows,1.63,692.14
+Dell,Ultrabook,14.0,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.6,771.36
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i7,1.8,16,Intel UHD Graphics,0,512,0,Windows,1.62,858.63
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,0,256,0,Linux,2.2,454.72
+Lenovo,2 in 1 Convertible,14.0,1920x1080,No,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.74,603.52
+Toshiba,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.2,915.02
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,1000,0,0,Windows,2.1,533.03
+Dell,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,4.42,1649.01
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,2.2,558.54
+Dell,Notebook,15.6,1920x1080,Yes,No,Intel Core i7,2.7,16,AMD Radeon R7,1000,0,0,Windows,2.3,576.68
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,Windows,2.0,516.25
+Asus,Notebook,17.3,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,500,256,0,Windows,2.69,598.15
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,AMD FirePro ,1000,0,0,Windows,1.9,851.92
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,1000,0,0,Windows,2.37,267.85
+HP,Notebook,15.6,1366x768,No,No,AMD E-Series,1.5,4,AMD Radeon R2,500,0,0,Windows,2.1,221.54
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,3.2,1006.32
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.6,576.67
+Acer,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.6,462.54
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,16,AMD Radeon R7,0,256,0,Linux,2.36,603.52
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Linux,2.1,261.82
+Asus,Notebook,15.6,1920x1080,No,No,AMD A10-Series,2.5,4,AMD Radeon R5,1000,128,0,Windows,2.2,386.01
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.9,32,Nvidia GeForce GTX,1000,512,0,Windows,4.7,2611.47
+Acer,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.5,567.94
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,8,Intel HD Graphics,0,128,0,Windows,7.2,395.41
+Asus,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,8,Nvidia GeForce,1000,128,0,Windows,2.1,768.67
+Asus,Notebook,17.3,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce GTX,1000,128,0,No OS,2.69,596.81
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.56,590.1
+Lenovo,2 in 1 Convertible,13.9,1920x1080,Yes,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.38,724.36
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,2000,128,0,Windows,2.2,661.26
+HP,Notebook,15.6,1366x768,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Windows,2.04,375.27
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.9,16,Nvidia GeForce GTX,0,256,0,Windows,3.6,2013.31
+HP,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,1.6,4,Intel UHD Graphics,500,0,0,Windows,1.49,453.15
+Apple,Ultrabook,13.3,2560x1600,No,Yes,Intel Core i5,3.1,8,Intel Iris Plus Graphics,0,512,0,MacOS,1.37,1369.51
+Dell,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,1000,0,0,Windows,2.08,549.82
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,4.3,1207.72
+Asus,Notebook,15.6,1366x768,No,No,AMD A9-Series,3.0,4,AMD Radeon R5,1000,0,0,Windows,1.68,314.85
+Lenovo,2 in 1 Convertible,13.9,1920x1080,Yes,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,0,512,0,Windows,1.37,1241.29
+Acer,Notebook,17.3,1920x1080,No,Yes,Intel Core i3,2.7,4,Nvidia GeForce,0,256,0,Windows,3.0,471.27
+Dell,Ultrabook,13.3,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.41,637.09
+HP,Notebook,15.6,1366x768,No,No,AMD A6-Series,2.5,8,AMD Radeon R4,0,128,0,Windows,1.91,299.35
+HP,Notebook,17.3,1920x1080,No,Yes,Intel Core i7,1.8,16,Nvidia GeForce,1000,0,0,Windows,2.9,710.94
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,512,0,Windows,4.14,1677.65
+Lenovo,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,0,512,0,Windows,2.0,1140.59
+Dell,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,1000,128,0,Windows,2.8,766.66
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,256,0,No OS,2.2,298.07
+HP,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,1.6,4,Intel HD Graphics,500,0,0,Windows,2.1,484.7
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,1000,0,0,Windows,2.18,441.06
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,AMD Radeon R5,1000,0,0,Windows,2.24,379.3
+Dell,2 in 1 Convertible,15.6,1920x1080,Yes,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,2.67,536.39
+Asus,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,1024,0,Windows,4.1,1006.32
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,8,Nvidia GeForce,1000,0,0,Windows,2.5,683.41
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,2.05,590.77
+Apple,Ultrabook,13.3,2560x1600,No,Yes,Intel Core i5,2.9,8,Intel Iris Graphics,0,512,0,MacOS,1.37,1315.06
+Asus,Gaming,17.3,1920x1080,No,No,AMD Ryzen 7,3.0,16,AMD Radeon RX ,1000,256,0,Windows,3.2,1039.89
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,0,256,0,Linux,2.14,493.47
+Lenovo,2 in 1 Convertible,14.0,2560x1440,Yes,No,Intel Core i7,2.6,16,Intel HD Graphics,0,512,0,Windows,1.36,1677.65
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i7,2.5,8,Nvidia GeForce,500,0,0,Windows,2.2,545.12
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i7,2.7,12,Intel HD Graphics,1000,0,0,Windows,2.3,478.7
+Dell,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,1000,128,0,Linux,2.8,737.79
+Acer,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,8,Nvidia GeForce,1000,0,0,Windows,2.2,500.14
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Windows,2.8,328.28
+Lenovo,Notebook,17.3,1920x1080,No,No,Intel Core i7,1.8,8,Nvidia GeForce,2000,0,0,No OS,2.8,569.96
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i7,2.7,6,Nvidia GeForce,1000,128,0,Windows,2.8,576.67
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,Linux,2.25,287.33
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.5,556.53
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,6,Intel HD Graphics,0,256,0,Windows,2.2,388.7
+Acer,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,8,Nvidia GeForce,0,256,0,Windows,3.0,638.43
+Acer,Notebook,15.6,1920x1080,Yes,Yes,Intel Core i7,2.7,12,Intel HD Graphics,1000,0,0,Windows,2.15,442.41
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.95,736.45
+Asus,Ultrabook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,Windows,1.7,655.89
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.5,791.5
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,1000,0,0,No OS,2.2,442.41
+Acer,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.5,2,Intel HD Graphics,0,16,0,ChromeOS,2.19,133.59
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Windows,3.0,796.87
+HP,Notebook,17.3,1600x900,No,No,Intel Core i3,2.0,8,Intel HD Graphics,1000,0,0,Windows,2.54,328.28
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,0,256,0,Windows,2.0,1227.86
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,2.05,496.11
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Windows,3.2,872.06
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,0,256,0,Linux,2.5,657.23
+Dell,Workstation,17.3,1920x1080,No,No,Intel Core i7,2.9,16,Nvidia Quadro,0,256,0,Windows,3.42,1936.69
+Lenovo,Notebook,15.6,1920x1080,No,No,AMD A10-Series,2.4,6,AMD Radeon R5,1000,0,0,Windows,2.4,334.99
+Asus,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,2.7,16,Nvidia GeForce,0,512,0,Windows,1.63,985.51
+Asus,Notebook,14.0,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,0,128,0,Windows,1.3,341.71
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.9,1424.56
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i5,2.5,6,Nvidia GeForce GTX,1000,0,0,Windows,5.8,435.69
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Nvidia GeForce,2000,0,0,No OS,2.2,368.56
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.5,849.23
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,1000,0,0,No OS,2.2,241.67
+HP,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i7,2.8,16,Intel HD Graphics,0,256,0,Windows,1.28,1325.87
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.5,8,Nvidia GeForce,0,256,0,Windows,2.2,700.2
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce,1000,128,0,Windows,2.3,549.82
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Windows,1.86,314.85
+Lenovo,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.1,670.66
+Dell,Ultrabook,13.3,3840x2160,Yes,Yes,Intel Core i7,1.8,16,Intel UHD Graphics,0,1000,0,Windows,1.21,1677.65
+MSI,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.8,1409.12
+Acer,Notebook,15.6,1920x1080,No,No,AMD A8-Series,2.2,8,AMD Radeon R5,0,256,0,Windows,2.23,314.85
+Asus,2 in 1 Convertible,11.6,1366x768,Yes,No,Intel Celeron Dual Core,1.1,2,Intel HD Graphics,0,0,32,Windows,1.1,184.62
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,1000,128,0,Windows,2.33,566.6
+HP,2 in 1 Convertible,13.3,3840x2160,Yes,Yes,Intel Core i7,1.8,16,Intel UHD Graphics,0,1000,0,Windows,1.29,1644.08
+Lenovo,Notebook,13.3,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,16,ChromeOS,1.45,308.74
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.95,657.9
+Acer,Notebook,11.6,1366x768,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,0,0,128,Windows,1.4,325.59
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.48,867.36
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i5,2.5,4,Nvidia GeForce,1000,0,0,Windows,2.79,395.41
+Asus,Notebook,14.0,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,2.0,734.43
+HP,Notebook,15.6,1366x768,No,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,1000,0,0,Windows,2.1,605.54
+Acer,Notebook,15.6,1366x768,No,No,AMD A12-Series,2.7,8,AMD Radeon RX ,0,256,0,Windows,2.2,442.41
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.44,196.03
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,6,Intel HD Graphics,1000,0,0,Windows,8.23,368.56
+Asus,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,1.7,704.83
+HP,Ultrabook,12.5,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.26,896.22
+Dell,Notebook,15.6,3840x2160,Yes,No,Intel Core i7,2.8,32,Nvidia GeForce GTX,0,1000,0,Windows,2.06,1771.63
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,256,0,Windows,2.7,804.92
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.0,633.06
+Asus,Notebook,14.0,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,1000,256,0,Windows,2.0,895.55
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Windows,1.85,301.43
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,0,256,0,Windows,2.5,670.66
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.6,8,Intel HD Graphics,0,256,0,Windows,1.48,851.24
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.84,768.0
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,1000,0,0,Linux,2.0,184.61
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,Nvidia GeForce,0,256,0,Windows,2.0,767.16
+Dell,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Linux,2.2,184.55
+Lenovo,Notebook,15.6,1920x1080,No,No,AMD A12-Series,3.6,12,AMD Radeon ,2000,0,0,Windows,2.2,603.52
+HP,Notebook,15.6,1920x1080,No,Yes,Intel Core i3,2.4,8,Nvidia GeForce,1000,0,0,Windows,2.1,480.67
+Lenovo,2 in 1 Convertible,13.9,3840x2160,Yes,Yes,Intel Core i7,1.8,16,Intel UHD Graphics,0,512,0,Windows,1.4,1409.12
+Dell,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.2,1060.03
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,2000,256,0,Windows,2.4,757.93
+HP,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,32,Windows,1.44,187.3
+Dell,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,1.9,16,Intel UHD Graphics,0,768,0,Windows,1.88,1079.47
+Asus,2 in 1 Convertible,11.6,1366x768,Yes,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.5,251.75
+Dell,Ultrabook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,1000,0,0,Windows,0.0002,445.09
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.84,875.41
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.7,945.9
+HP,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia Quadro,0,256,0,Windows,2.6,1166.95
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.5,16,Nvidia GeForce,0,512,0,Windows,2.4,941.87
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,2000,128,0,Windows,2.02,651.79
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,1000,0,0,No OS,2.2,216.16
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,0,0,Windows,2.65,670.66
+Dell,Notebook,15.6,1366x768,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,2000,0,0,Windows,2.36,374.18
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.6,8,Intel HD Graphics,0,256,0,Windows,1.36,957.99
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,1.86,294.71
+Asus,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.0,634.4
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i5,2.5,6,Nvidia GeForce GTX,1000,128,0,Windows,2.8,482.68
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Windows,1.86,428.98
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,8,Nvidia GeForce,0,256,0,No OS,2.2,334.99
+HP,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.6,8,Intel HD Graphics,2000,0,0,Windows,2.04,261.15
+Dell,Notebook,17.3,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,1000,128,0,Windows,2.8,728.39
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,No OS,2.4,543.1
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,AMD Radeon R7,0,256,0,Windows,2.33,603.52
+HP,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.36,1174.82
+Asus,2 in 1 Convertible,15.6,1920x1080,Yes,No,Intel Core i7,2.7,12,Nvidia GeForce,2000,512,0,Windows,2.26,737.79
+Acer,Notebook,15.6,1366x768,No,No,AMD A9-Series,3.0,4,AMD Radeon R5,0,128,0,Windows,2.1,285.99
+Asus,Gaming,17.3,1920x1080,No,Yes,AMD Ryzen 7,3.0,16,AMD Radeon RX ,1000,256,0,Windows,3.25,1476.25
+Lenovo,Notebook,17.3,1600x900,No,No,AMD A8-Series,2.2,4,AMD Radeon R5,0,128,0,Windows,2.6,328.28
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.62,583.39
+HP,Notebook,15.6,1920x1080,No,No,AMD A9-Series,3.0,4,AMD Radeon R5,0,256,0,Windows,1.91,328.27
+Lenovo,Netbook,11.6,1366x768,No,Yes,Intel Celeron Quad Core,1.1,4,Intel HD Graphics,0,128,0,Windows,1.59,371.24
+Dell,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Windows,1.8,207.44
+Asus,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.5,192.0
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Linux,2.4,567.94
+HP,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,3.35,799.55
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,No OS,1.85,270.88
+Asus,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.3,1111.05
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,Windows,1.5,737.79
+Asus,Ultrabook,13.3,1920x1080,Yes,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.1,1174.09
+Lenovo,Ultrabook,14.0,2560x1440,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.13,1531.97
+Lenovo,Notebook,13.3,1920x1080,No,Yes,Intel Core i3,2.4,4,Intel HD Graphics,0,128,0,Windows,1.5,368.56
+Dell,Workstation,15.6,1920x1080,No,No,Intel Core i5,2.6,8,AMD FirePro ,500,0,0,Windows,2.23,919.05
+Dell,Workstation,15.6,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia Quadro,0,256,0,Windows,2.0,1433.29
+Lenovo,2 in 1 Convertible,14.0,2560x1440,Yes,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.42,1684.36
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Windows,3.0,697.51
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,3.0,1068.08
+Acer,Notebook,15.6,1366x768,No,Yes,Intel Core i5,1.6,12,Nvidia GeForce,1000,0,0,Windows,2.2,465.89
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,0,256,0,Windows,2.7,905.62
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,AMD Radeon R7,0,256,0,Linux,2.33,522.88
+HP,Ultrabook,15.6,1920x1080,No,No,AMD A9-Series,3.0,4,AMD Radeon ,0,256,0,Windows,1.91,334.99
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,8,AMD Radeon RX ,0,256,0,Windows,2.1,825.44
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.9,629.71
+Dell,Workstation,15.6,3840x2160,Yes,No,Intel Core i7,2.8,8,Nvidia Quadro,0,256,0,Windows,1.78,1820.64
+Lenovo,Ultrabook,14.0,2560x1440,No,Yes,Intel Core i7,2.7,16,Intel HD Graphics,0,1000,0,Windows,1.13,1762.24
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,1000,0,0,Windows,2.2,205.43
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.9,1026.46
+Lenovo,Notebook,25.6,1920x1080,No,Yes,Intel Core i5,1.6,8,AMD Radeon RX ,1000,256,0,Windows,2.1,768.33
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,0,256,0,Linux,2.5,590.1
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.8,1509.82
+Asus,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.1,1257.4
+Toshiba,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,2.5,16,Intel HD Graphics,0,512,0,Windows,1.2,1172.81
+Dell,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.8,8,Intel HD Graphics,0,512,0,Windows,1.36,1127.83
+Lenovo,Notebook,35.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,2.2,274.57
+Lenovo,Notebook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.1,2,Intel HD Graphics,0,0,32,Windows,1.15,204.39
+Lenovo,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia Quadro,0,512,0,Windows,2.67,1292.31
+Lenovo,Ultrabook,14.0,2560x1440,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce,0,512,0,Windows,1.7,1304.39
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,AMD Radeon ,1000,0,0,Windows,2.1,314.85
+Acer,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.6,529.68
+Asus,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.27,622.99
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,AMD Radeon R5,0,256,0,Linux,2.3,402.06
+Dell,Notebook,13.3,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Windows,1.65,462.54
+HP,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.43,1006.99
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Windows,2.14,362.48
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,1.8,8,AMD Radeon RX ,0,256,0,Windows,1.75,815.92
+Lenovo,2 in 1 Convertible,15.6,3840x2160,Yes,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,Windows,2.0,1274.85
+Chuwi,Notebook,12.3,2736x1824,No,Yes,Intel Celeron Quad Core,1.1,6,Intel HD Graphics,0,0,64,Windows,1.4,301.43
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.9,8,Intel HD Graphics,0,256,0,Windows,2.31,957.99
+Asus,Notebook,35.6,1920x1080,No,No,Intel Core i3,2.4,8,Nvidia GeForce,1000,0,0,Linux,2.3,400.78
+Dell,Gaming,27.3,2560x1440,No,Yes,Intel Core i7,2.9,16,Nvidia GeForce GTX,1000,256,0,Windows,4.42,1879.05
+Dell,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.62,778.07
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,2000,256,0,Windows,2.02,766.93
+Dell,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.8,8,Intel HD Graphics,0,256,0,Linux,1.6,737.79
+HP,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,12,Nvidia GeForce GTX,1000,256,0,Windows,3.35,1341.98
+Mediacom,2 in 1 Convertible,11.6,1920x1080,Yes,Yes,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,32,0,Windows,1.16,200.73
+Samsung,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,16,ChromeOS,1.15,180.59
+Lenovo,Notebook,13.3,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.4,678.04
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i3,2.7,4,Intel HD Graphics,0,128,0,Windows,1.7,402.13
+Lenovo,Workstation,15.6,3840x2160,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce,0,512,0,Windows,2.3,1641.4
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.9,16,Nvidia Quadro,0,512,0,Windows,2.5,1644.08
+Asus,Gaming,17.3,1920x1080,No,No,AMD Ryzen 7,3.2,8,AMD Radeon RX ,1000,256,0,Windows,3.2,1137.9
+HP,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Windows,2.1,232.95
+Google,Ultrabook,12.3,2400x1600,Yes,No,Intel Core i7,1.3,16,Intel HD Graphics,0,512,0,ChromeOS,1.1,1476.25
+Lenovo,Ultrabook,24.0,2560x1440,No,No,Intel Core i7,2.7,24,Intel HD Graphics,0,512,0,Windows,1.32,1599.1
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Linux,2.0,375.27
+Lenovo,Notebook,17.3,1600x900,No,No,AMD A6-Series,2.5,8,AMD Radeon R4,1000,0,0,Windows,2.8,348.42
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,4,AMD Radeon ,0,256,0,Windows,2.2,502.82
+Lenovo,Ultrabook,12.5,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.36,959.33
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,0,128,0,Windows,2.2,234.29
+HP,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.2,737.79
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.8,8,Nvidia GeForce,0,256,0,Windows,1.64,791.5
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Linux,2.4,296.59
+Dell,Workstation,15.6,1920x1080,No,No,Intel Xeon,3.0,8,Nvidia Quadro,1000,0,64,Windows,2.23,1337.96
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.2,689.95
+Microsoft,Ultrabook,13.5,2256x1504,Yes,No,Intel Core i7,2.5,16,Intel Iris Plus Graphics,0,512,0,Windows,1.25,1738.07
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,128,0,Windows,1.91,395.41
+Dell,Workstation,15.6,1920x1080,No,Yes,Intel Core i7,2.7,16,Nvidia Quadro,0,256,0,Windows,2.17,1325.87
+HP,Workstation,15.6,1920x1080,No,Yes,Intel Core i7,2.9,8,Intel HD Graphics,0,512,0,Windows,2.31,1029.82
+Lenovo,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.65,902.94
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,1000,128,0,Windows,2.36,657.23
+Dell,2 in 1 Convertible,11.6,1366x768,Yes,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,500,0,0,Windows,1.47,321.57
+Dell,Notebook,17.3,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia GeForce GTX,1000,0,0,Windows,4.42,1373.54
+Microsoft,Ultrabook,13.5,2256x1504,Yes,No,Intel Core M,2.2,4,Intel HD Graphics,0,128,0,Windows,1.252,663.94
+Microsoft,Ultrabook,33.5,2256x1504,Yes,No,Intel Core i7,2.5,8,Intel Iris Plus Graphics,0,256,0,Windows,1.25,1207.72
+HP,Notebook,17.3,1600x900,No,No,Intel Core i3,2.0,8,Intel HD Graphics,0,256,0,Windows,2.5,429.58
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Nvidia GeForce,1000,0,0,Windows,2.23,365.2
+Acer,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,128,0,Windows,1.4,292.03
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Windows,2.37,502.82
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i7,2.7,8,AMD Radeon R7,0,512,0,No OS,1.5,536.39
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.9,8,Nvidia Quadro,0,256,0,Windows,2.67,1403.08
+Asus,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,500,0,0,Windows,2.0,204.08
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Nvidia GeForce GTX,500,0,0,Windows,2.2,314.85
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,2000,0,0,Windows,2.02,509.54
+HP,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,12,Nvidia GeForce GTX,1000,0,0,Windows,3.78,1140.59
+Lenovo,Ultrabook,14.0,2560x1440,No,Yes,Intel Core i7,2.6,12,Intel HD Graphics,0,256,0,Windows,1.4,1247.33
+HP,2 in 1 Convertible,13.3,3840x2160,Yes,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,0,512,0,Windows,1.29,1341.98
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,AMD FirePro ,500,0,0,Windows,1.9,774.71
+Google,Ultrabook,12.3,2400x1600,Yes,No,Intel Core i5,1.2,8,Intel HD Graphics,0,128,0,ChromeOS,1.1,855.94
+Dell,Ultrabook,13.3,1920x1080,Yes,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.42,1236.49
+Asus,Notebook,15.6,3840x2160,No,Yes,Intel Core i7,2.6,12,Intel HD Graphics,1000,128,0,Windows,2.06,872.06
+Dell,Notebook,14.0,1366x768,No,No,Intel Core i3,2.3,8,Intel HD Graphics,0,128,0,Windows,1.79,496.78
+Lenovo,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,180,0,Windows,1.7,915.69
+Toshiba,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.05,1122.46
+Dell,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,8,Nvidia GeForce,0,512,0,Windows,2.16,847.22
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,1000,0,0,Windows,2.18,393.8
+HP,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,1.6,4,Intel UHD Graphics,0,128,0,Windows,1.49,487.38
+Chuwi,Notebook,15.6,1920x1080,No,No,Intel Atom,1.44,4,Intel HD Graphics,0,0,64,Windows,1.89,167.09
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Windows,2.3,379.3
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.75,704.22
+Dell,Workstation,15.6,1920x1080,No,Yes,Intel Core i7,2.7,16,Nvidia Quadro,0,512,0,Windows,2.17,1569.56
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,Windows,2.06,1274.85
+Lenovo,Ultrabook,12.5,1920x1080,No,Yes,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.36,1207.05
+Asus,Ultrabook,12.5,1920x1080,No,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,0.91,1309.09
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,Windows,2.3,679.38
+Toshiba,Ultrabook,13.3,1920x1080,Yes,No,Intel Core i7,2.7,32,Intel HD Graphics,0,512,0,Windows,1.05,1879.05
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,1.99,906.29
+Acer,Notebook,15.6,1366x768,No,No,AMD A10-Series,2.5,8,AMD Radeon RX ,1000,0,0,Windows,2.2,388.7
+Asus,Gaming,17.3,1920x1080,Yes,Yes,Intel Core i7,2.6,24,Nvidia GeForce GTX,1000,256,0,Windows,4.33,851.92
+Lenovo,Ultrabook,12.5,1366x768,No,Yes,Intel Core i5,2.3,8,Intel HD Graphics,0,180,0,Windows,1.3,737.79
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,2.17,603.46
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i7,2.8,8,Intel HD Graphics,0,1000,0,Windows,1.48,1174.15
+Lenovo,Notebook,13.3,1920x1080,No,Yes,Intel Core i3,2.4,8,Intel HD Graphics,0,256,0,Windows,1.4,637.09
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.3,611.58
+Asus,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,64,Windows,1.2,228.25
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,AMD Radeon ,0,256,0,Windows,1.91,415.55
+Lenovo,2 in 1 Convertible,13.9,1920x1080,Yes,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.4,1073.45
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,500,0,0,Windows,2.1,200.73
+Lenovo,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,16,0,ChromeOS,1.25,177.9
+Lenovo,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.44,637.09
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,1000,256,0,Windows,2.0,821.71
+Acer,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,1.6,4,Nvidia GeForce,1000,0,0,Windows,2.2,411.52
+HP,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.34,888.17
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,256,0,No OS,2.4,771.36
+Dell,Ultrabook,13.3,1920x1080,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,128,0,Windows,1.29,603.52
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,4,Nvidia GeForce,500,0,0,Windows,2.2,428.98
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Windows,2.18,561.23
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,16,AMD Radeon ,2000,256,0,Windows,2.2,818.51
+Xiaomi,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,16,Nvidia GeForce,0,256,0,No OS,1.95,939.83
+Asus,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.1,2,Intel HD Graphics,0,0,32,Windows,1.1,164.48
+HP,Notebook,15.6,1366x768,Yes,No,Intel Core i5,1.6,4,Intel UHD Graphics,1000,0,0,Windows,2.04,350.08
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,24,Nvidia GeForce GTX,0,512,0,Windows,2.24,1992.5
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,Windows,2.04,596.81
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,3.0,1009.68
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,256,0,Windows,3.2,939.19
+HP,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.32,939.19
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.6,8,Intel HD Graphics,0,256,0,Windows,1.64,859.12
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Windows,1.63,462.54
+Dell,Notebook,17.3,1920x1080,No,Yes,Intel Core i5,1.6,8,AMD Radeon ,1000,128,0,Linux,2.8,596.81
+Lenovo,Notebook,24.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,2.02,899.58
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,4,Nvidia GeForce,1000,0,0,Windows,2.2,536.39
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,8,Nvidia GeForce,2000,0,0,No OS,2.2,308.14
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,AMD Radeon R5,500,0,0,Windows,2.3,392.73
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.8,8,Intel HD Graphics,0,256,0,Windows,1.9,924.42
+Dell,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,128,0,Windows,4.42,2022.56
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,500,0,0,Windows,2.0,577.34
+Asus,Notebook,15.6,3840x2160,No,Yes,Intel Core i7,2.7,8,Nvidia GeForce GTX,1000,256,0,Windows,2.0,872.06
+Mediacom,Notebook,13.3,1920x1080,No,Yes,Intel Celeron Quad Core,1.1,4,Intel HD Graphics,0,32,0,Windows,1.2,247.72
+Asus,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,2.3,1107.02
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce,0,256,0,Windows,1.93,919.05
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,8,AMD Radeon ,0,256,0,Windows,2.2,535.32
+HP,Notebook,15.6,1920x1080,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,0,256,0,Windows,1.86,267.85
+HP,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,12,Nvidia GeForce GTX,1000,0,0,Windows,2.62,1207.72
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,1.87,576.67
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i7,1.8,8,Intel UHD Graphics,0,256,0,Windows,1.2,939.19
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Windows,1.6,494.01
+HP,Ultrabook,13.3,3200x1800,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.34,768.67
+Acer,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,0,0,Linux,2.4,535.72
+Asus,Notebook,15.6,1366x768,No,No,AMD E-Series,1.8,4,AMD Radeon R2,500,0,0,Windows,2.0,234.29
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.4,4,Intel HD Graphics,0,128,0,Windows,2.1,473.62
+Lenovo,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,1.87,526.99
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,1000,0,0,No OS,2.15,310.39
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,1.86,266.52
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.99,1160.73
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Windows,2.2,334.99
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.9,749.87
+Dell,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,4.42,1811.91
+HP,Notebook,17.3,1600x900,No,No,Intel Core i3,2.0,8,Intel HD Graphics,1000,0,0,Windows,2.65,365.3
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,1000,0,0,Windows,2.63,859.3
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,500,0,0,Linux,2.0,150.38
+Mediacom,Notebook,13.3,1920x1080,No,Yes,Intel Atom,1.44,4,Intel HD Graphics,0,0,32,Windows,1.35,171.19
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i7,2.7,6,Nvidia GeForce,1000,128,0,Windows,2.8,637.09
+HP,Notebook,15.6,1920x1080,No,Yes,AMD A10-Series,2.5,6,AMD Radeon ,0,128,0,Windows,1.91,381.92
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,Windows,2.18,414.81
+Acer,2 in 1 Convertible,11.6,1920x1080,Yes,Yes,Intel Celeron Dual Core,2.0,4,Intel HD Graphics,0,0,32,Windows,1.25,234.29
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.7,4,Intel HD Graphics,0,128,0,Windows,2.05,422.94
+HP,Ultrabook,13.3,3200x1800,Yes,Yes,Intel Core M,1.2,16,Intel HD Graphics,0,512,0,Windows,1.16,1319.16
+Lenovo,Notebook,17.3,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia Quadro,0,256,0,Windows,3.4,2013.31
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,2.5,563.24
+Dell,Ultrabook,13.3,3840x2160,Yes,Yes,Intel Core i5,1.6,8,Intel UHD Graphics,0,128,0,Windows,1.21,1073.45
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.6,4,Intel HD Graphics,500,0,0,Windows,1.93,643.8
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,500,0,0,Windows,2.2,230.94
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,2.02,664.61
+HP,Workstation,17.3,1600x900,No,No,Intel Core i5,2.8,8,Nvidia Quadro,500,0,0,Windows,3.14,1249.33
+HP,Notebook,14.0,1366x768,No,No,Intel Pentium Quad Core,1.6,8,Intel HD Graphics,2000,0,0,Windows,1.94,261.15
+HP,Notebook,15.6,1920x1080,No,Yes,AMD A9-Series,3.0,6,AMD Radeon ,0,256,0,Windows,1.95,435.69
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.3,557.2
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,4,Intel HD Graphics,500,0,0,Windows,2.05,459.86
+Mediacom,Notebook,14.0,1920x1080,No,No,Intel Atom,1.44,4,Intel HD Graphics,0,32,0,Windows,1.4,167.16
+Toshiba,Ultrabook,14.0,1920x1080,Yes,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.24,1252.03
+Lenovo,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.7,32,Nvidia GeForce GTX,1000,256,0,Windows,4.6,1787.75
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.9,16,Nvidia GeForce GTX,1000,512,0,Windows,4.14,1832.05
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,AMD Radeon R5,0,256,0,Linux,2.2,502.83
+Mediacom,Notebook,14.0,1920x1080,No,Yes,Intel Celeron Quad Core,1.1,4,Intel HD Graphics,0,32,0,Windows,1.45,261.15
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.6,8,Intel HD Graphics,500,0,0,Windows,1.9,677.05
+HP,Notebook,13.3,1920x1080,No,No,Intel Core i3,2.4,4,Intel HD Graphics,0,128,0,Windows,1.49,482.68
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce,0,256,0,Windows,1.93,1032.09
+Dell,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,16,ChromeOS,1.26,198.04
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.7,16,Nvidia GeForce GTX,1000,128,0,Windows,4.5,1576.95
+HP,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,3.78,1005.65
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.6,12,Intel HD Graphics,0,256,0,Windows,8.4,1123.13
+Lenovo,Notebook,15.6,1366x768,Yes,No,Intel Core i7,1.8,12,Intel HD Graphics,1000,0,0,Windows,2.2,408.84
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,2.73,1188.25
+Asus,2 in 1 Convertible,15.6,1366x768,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Windows,2.2,496.11
+Lenovo,Notebook,15.6,1920x1080,No,No,AMD A12-Series,3.6,12,AMD Radeon ,0,512,0,Windows,2.2,637.09
+Dell,2 in 1 Convertible,31.6,1366x768,Yes,No,Intel Core M,1.0,4,Intel HD Graphics,0,128,0,Windows,1.39,404.81
+Samsung,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,128,0,Windows,2.5,1140.59
+Lenovo,Notebook,17.3,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,No OS,2.8,355.13
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.3,8,Intel HD Graphics,1000,0,0,Windows,2.29,308.14
+Lenovo,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.37,1359.44
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.7,989.54
+Dell,2 in 1 Convertible,12.5,1920x1080,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.34,1121.12
+Dell,Workstation,15.6,1920x1080,Yes,No,Intel Core i7,2.8,8,Nvidia Quadro,0,256,0,Windows,2.06,1183.55
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.84,818.35
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,500,0,0,Windows,2.1,448.77
+Acer,Notebook,14.0,1920x1080,No,No,Intel Celeron Quad Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.6,220.87
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.7,16,Nvidia GeForce GTX,1000,128,0,Windows,4.14,1476.25
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,Linux,2.18,312.17
+MSI,Gaming,15.6,3840x2160,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,2000,256,0,Windows,1.8,1543.38
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,2.2,939.19
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,6,Intel HD Graphics,1000,0,0,Windows,2.4,378.63
+Lenovo,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i7,2.8,8,Intel HD Graphics,0,256,0,Windows,2.0,872.06
+Acer,Notebook,14.0,1366x768,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,0,0,128,Windows,1.6,234.29
+Lenovo,Notebook,15.6,3840x2160,No,Yes,Intel Xeon,3.1,32,Nvidia Quadro,0,1000,0,Windows,2.5,3288.84
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,0,0,Windows,2.59,590.1
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Linux,2.18,298.0
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Linux,2.25,241.01
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.6,4,Intel HD Graphics,500,0,0,Linux,1.93,583.38
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,3.0,784.11
+HP,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.84,932.47
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.94,1522.48
+Acer,2 in 1 Convertible,11.6,1366x768,Yes,Yes,Intel Celeron Quad Core,1.6,4,Intel HD Graphics,0,0,32,ChromeOS,1.25,254.43
+HP,Notebook,14.0,1366x768,No,No,Intel Core i5,2.6,8,Intel HD Graphics,0,256,0,Windows,2.31,754.57
+Lenovo,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.65,983.5
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,4,AMD Radeon ,1000,0,0,Windows,2.2,520.95
+Fujitsu,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.2,536.39
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,1.88,625.68
+Mediacom,Notebook,14.0,1920x1080,No,No,Intel Atom,1.44,2,Intel HD Graphics,0,0,32,Windows,1.4,160.45
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,128,0,No OS,2.2,314.18
+Asus,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,2.5,6,Intel HD Graphics,1000,0,0,Windows,1.5,428.99
+Asus,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,11.1,1275.52
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.62,992.89
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,1.6,4,Intel UHD Graphics,0,256,0,Windows,1.8,556.53
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Nvidia GeForce,1000,0,0,Windows,2.2,388.7
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,8,Intel HD Graphics,1000,0,0,Windows,2.0,267.86
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,0,0,Windows,1.99,608.64
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.23,1254.71
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,32,Windows,1.42,167.16
+Lenovo,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.37,1179.81
+Dell,Notebook,15.6,3840x2160,Yes,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,1000,0,Windows,2.06,1610.52
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.5,744.5
+HP,Notebook,17.0,1600x900,No,No,AMD A9-Series,3.0,8,AMD Radeon R5,1000,0,0,Windows,2.6,349.69
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.14,1644.75
+Asus,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,No OS,2.5,784.78
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,2.4,302.1
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,32,Windows,1.43,183.94
+Acer,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel Graphics,0,256,0,Windows,1.8,616.95
+Razer,Gaming,14.0,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,256,0,Windows,1.95,1744.78
+Toshiba,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.2,814.32
+Lenovo,Ultrabook,12.5,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.36,1063.38
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.7,32,Nvidia GeForce GTX,0,512,0,Windows,3.8,1879.05
+Acer,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,0,0,Linux,2.4,475.97
+Dell,Ultrabook,13.3,1920x1080,No,No,Intel Core i5,1.6,8,Intel UHD Graphics,0,256,0,Windows,1.2,973.36
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.2,800.09
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,No OS,1.86,244.97
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,500,0,0,Windows,2.0,714.29
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,8,AMD Radeon ,0,256,0,Windows,6.2,616.95
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,16,AMD Radeon ,2000,256,0,Windows,2.2,761.96
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,128,0,Windows,3.31,802.91
+Dell,Gaming,17.3,3840x2160,No,Yes,Intel Core i7,2.8,32,Nvidia GeForce GTX,1000,512,0,Windows,4.42,2112.92
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.4,8,Intel HD Graphics,0,256,0,Windows,1.56,825.06
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,500,0,0,Windows,2.2,281.29
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,2.2,359.16
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,6,AMD Radeon R5,1000,0,0,Windows,2.04,361.85
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.7,998.11
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i3,2.1,4,Intel HD Graphics,0,128,0,Windows,2.1,334.32
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,AMD Radeon ,1000,0,0,Windows,2.1,500.14
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.0,844.53
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Linux,2.1,276.59
+Microsoft,Ultrabook,13.5,2256x1504,Yes,No,Intel Core i7,2.8,8,Intel Iris Plus Graphics,0,256,0,Windows,1.252,1253.94
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,AMD Radeon R5,1000,128,0,Windows,1.9,549.11
+Lenovo,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.3,694.15
+Lenovo,Notebook,35.6,1366x768,No,No,AMD E-Series,2.2,4,AMD Radeon R2,0,128,0,Windows,2.2,234.29
+HP,2 in 1 Convertible,14.0,1920x1080,Yes,Yes,Intel Core i3,2.4,4,Nvidia GeForce,0,128,0,Windows,1.63,469.26
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.4,868.7
+Asus,Ultrabook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.1,761.96
+HP,2 in 1 Convertible,11.6,1366x768,Yes,No,Intel Celeron Dual Core,1.1,8,Intel HD Graphics,0,0,64,ChromeOS,1.4,332.31
+LG,Ultrabook,15.6,1920x1080,No,Yes,Intel Core i7,1.8,8,Intel HD Graphics,0,512,0,Windows,1.09,1543.38
+Acer,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,16,Nvidia GeForce GTX,0,256,0,Windows,2.5,872.06
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.2,669.92
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,128,0,Windows,1.86,281.29
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,16,Nvidia GeForce GTX,1000,128,0,Windows,3.21,1376.89
+HP,Notebook,17.3,1920x1080,No,Yes,Intel Core i3,2.0,4,AMD Radeon R5,0,256,0,Windows,2.5,469.26
+Lenovo,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i7,1.8,8,Intel UHD Graphics,0,512,0,Windows,1.19,1006.32
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.9,16,Nvidia GeForce GTX,1000,256,0,Windows,3.49,1888.95
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,AMD Radeon ,500,0,0,Windows,1.86,411.26
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,Windows,2.2,366.32
+HP,Notebook,17.3,1920x1080,No,Yes,AMD A10-Series,2.4,6,AMD Radeon R7,2000,0,0,Windows,2.65,381.99
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Windows,2.1,213.48
+Acer,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,32,ChromeOS,1.45,251.75
+Lenovo,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,1.7,469.26
+HP,Workstation,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia Quadro,500,0,0,Windows,3.14,1280.89
+Lenovo,2 in 1 Convertible,14.0,2560x1440,Yes,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.42,1738.74
+Toshiba,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.5,653.2
+Acer,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,32,Windows,1.4,180.59
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.38,1174.15
+Asus,2 in 1 Convertible,12.5,1920x1080,Yes,No,Intel Core M,0.9,4,Intel HD Graphics,0,0,64,ChromeOS,1.2,449.12
+Toshiba,Ultrabook,13.3,1920x1080,Yes,No,Intel Core i7,2.5,16,Intel HD Graphics,0,512,0,Windows,1.36,1260.08
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,0,0,Windows,2.56,549.82
+Lenovo,Notebook,15.6,1920x1080,No,No,AMD A9-Series,2.9,4,AMD Radeon ,0,256,0,Windows,2.2,267.86
+Lenovo,Notebook,15.6,1366x768,No,No,AMD A12-Series,3.6,8,AMD Radeon R7,1000,0,0,Windows,2.2,288.0
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,1001000,0,0,Windows,2.1,417.2
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,No OS,1.9,302.1
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.18,533.71
+Acer,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i5,1.6,1,Intel UHD Graphics,0,256,0,Windows,1.6,670.66
+Lenovo,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.5,16,Nvidia Quadro,0,512,0,Windows,2.18,1245.31
+Lenovo,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.8,799.55
+HP,Notebook,17.3,1920x1080,No,Yes,AMD A10-Series,2.5,6,AMD Radeon ,2000,0,0,Windows,2.71,439.73
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.5,838.49
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.8,8,Nvidia GeForce,0,256,0,Linux,1.64,731.08
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Linux,1.98,487.38
+Asus,Notebook,14.0,1920x1080,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.5,200.06
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.6,16,Intel HD Graphics,0,512,0,Windows,1.93,957.76
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,Windows,1.87,575.38
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.6,8,Intel HD Graphics,0,256,0,Windows,1.9,791.5
+Lenovo,Notebook,15.6,1366x768,No,No,AMD A6-Series,2.0,4,AMD Radeon R4,500,0,0,Windows,2.19,200.06
+Mediacom,Notebook,14.0,1920x1200,No,Yes,Intel Atom,1.92,4,Intel HD Graphics,32,0,0,Windows,1.4,177.9
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,2.63,805.59
+Lenovo,Ultrabook,14.0,2560x1440,No,Yes,Intel Core i7,2.5,64,Intel HD Graphics,0,512,0,Windows,1.17,1132.29
+HP,2 in 1 Convertible,13.3,1366x768,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.58,561.63
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.32,1006.32
+Dell,Gaming,17.3,3840x2160,No,No,Intel Core i7,2.8,32,Nvidia GeForce GTX,1000,1000,0,Windows,4.36,2456.66
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.7,905.27
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,1000,0,0,No OS,1.9,328.88
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i3,2.4,4,Intel HD Graphics,1000,0,0,Windows,1.71,435.69
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,AMD Radeon R7,1000,0,0,Linux,2.32,395.76
+HP,Notebook,15.6,1920x1080,No,No,AMD A9-Series,3.0,4,AMD Radeon ,1000,0,0,Windows,2.1,328.28
+Acer,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,128,0,Windows,4.2,1299.02
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,12,Intel HD Graphics,1000,0,0,Windows,2.25,435.69
+HP,Notebook,15.6,1920x1080,No,No,AMD A9-Series,3.0,6,AMD Radeon ,1000,128,0,Windows,2.1,436.36
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,2.4,375.27
+Lenovo,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.44,644.47
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,4,Intel HD Graphics,1000,0,0,Windows,1.85,522.96
+HP,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia Quadro,0,256,0,Windows,2.6,1623.94
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,1.6,8,Intel UHD Graphics,1000,0,0,Windows,1.55,442.41
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,1.8,1406.08
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,2.4,275.78
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,1000,128,0,Windows,2.0,810.29
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,8,Intel HD Graphics,0,256,0,Windows,2.0,446.43
+Toshiba,Notebook,14.0,1920x1080,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.25,1030.49
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.7,670.66
+Lenovo,Workstation,15.6,3840x2160,No,Yes,Intel Core i7,2.8,16,Nvidia Quadro,0,1000,0,Windows,2.5,2214.71
+Acer,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,32,ChromeOS,1.68,221.54
+Samsung,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,2.7,16,Intel HD Graphics,0,256,0,Windows,0.81,1107.02
+Dell,Notebook,14.0,1366x768,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.6,756.39
+HP,Workstation,17.3,1920x1080,No,Yes,Intel Xeon,2.9,16,Nvidia Quadro,0,256,0,Windows,3.0,2946.46
+Lenovo,Netbook,11.6,1366x768,Yes,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,128,0,Windows,1.4,318.88
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.4,8,Intel HD Graphics,0,256,0,Windows,1.84,1275.52
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Nvidia GeForce GTX,1000,0,0,No OS,2.45,388.7
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i7,2.7,4,Intel HD Graphics,0,256,0,Windows,2.37,570.56
+Lenovo,2 in 1 Convertible,13.3,3200x1800,Yes,Yes,Intel Core i5,1.8,8,Intel HD Graphics,0,256,0,Windows,1.3,804.92
+HP,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,2.2,737.79
+HP,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia Quadro,0,256,0,Windows,2.59,1047.94
+Dell,Gaming,15.6,3840x2160,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,4.42,1926.03
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,2.1,402.13
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.5,703.55
+Dell,Ultrabook,12.5,1920x1080,No,No,Intel Core i7,2.8,16,Intel HD Graphics,0,256,0,Windows,1.18,1248.0
+Google,Ultrabook,12.3,2400x1600,Yes,No,Intel Core i5,1.2,8,Intel HD Graphics,0,256,0,ChromeOS,1.1,1046.6
+Asus,Ultrabook,13.3,3200x1800,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.2,757.93
+Dell,Notebook,13.3,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,1.65,569.96
+Acer,Notebook,13.3,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,0,128,0,Windows,1.6,439.72
+Asus,Notebook,17.3,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Nvidia GeForce,1000,0,0,Windows,2.8,315.75
+Dell,Gaming,15.6,3840x2160,Yes,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,128,0,Windows,2.72,737.79
+Samsung,Ultrabook,13.3,1920x1080,Yes,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.31,1073.45
+Acer,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,1000,0,0,Linux,2.1,200.06
+Samsung,2 in 1 Convertible,15.0,1920x1080,Yes,No,Intel Core i7,2.7,16,AMD Radeon ,0,256,0,Windows,1.71,1207.72
+Toshiba,Notebook,14.0,1366x768,No,Yes,Intel Core i5,2.3,4,Intel HD Graphics,0,128,0,Windows,1.75,684.75
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Windows,2.62,737.79
+Asus,2 in 1 Convertible,15.6,1920x1080,Yes,No,Intel Core i7,2.7,12,Nvidia GeForce,2000,0,0,Windows,2.3,563.24
+Lenovo,Notebook,15.6,3840x2160,No,No,Intel Core i7,2.7,16,Nvidia Quadro,0,512,0,Windows,2.5,1591.05
+Acer,Notebook,14.0,1920x1080,No,Yes,Intel Core i3,2.4,4,Intel HD Graphics,0,128,0,Windows,1.8,426.96
+Razer,Gaming,14.0,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,Windows,1.95,1946.18
+Asus,Notebook,15.6,1920x1080,No,No,Intel Pentium Dual Core,1.1,8,Intel HD Graphics,0,128,0,Windows,2.0,390.65
+Dell,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,32,Nvidia GeForce GTX,1000,1000,0,Windows,4.42,2409.26
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,256,0,Windows,4.3,1577.62
+Toshiba,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce,0,512,0,Windows,1.47,1184.22
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Celeron Quad Core,1.6,8,Intel HD Graphics,1000,0,0,No OS,2.2,220.87
+Lenovo,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.7,1543.38
+MSI,Gaming,14.0,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,1.6,1269.48
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,2.2,731.08
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,4,Nvidia GeForce GTX,1000,0,0,Windows,2.4,670.66
+Acer,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,4.2,1543.38
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.62,661.26
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.24,898.91
+Vero,Notebook,14.0,1920x1080,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.22,136.21
+Lenovo,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.37,1322.52
+Lenovo,2 in 1 Convertible,15.6,1920x1080,Yes,No,Intel Core i5,2.5,8,AMD Radeon R7,0,256,0,Windows,2.08,643.8
+Apple,Ultrabook,12.0,2304x1440,No,Yes,Intel Core M,1.2,8,Intel HD Graphics,0,0,512,MacOS,0.92,782.1
+Lenovo,2 in 1 Convertible,14.0,2560x1440,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.42,1564.19
+Asus,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.63,200.73
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,128,0,Windows,1.95,543.78
+Lenovo,2 in 1 Convertible,13.9,1920x1080,Yes,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.38,905.62
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,8,AMD Radeon R5,0,256,0,Windows,2.0,496.11
+HP,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia Quadro,0,256,0,Windows,3.14,1386.23
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.37,737.79
+Dell,Ultrabook,13.3,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.29,1006.32
+Dell,Notebook,15.6,3840x2160,Yes,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.06,1174.15
+Dell,Netbook,11.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,0,128,0,Windows,1.63,499.47
+HP,Netbook,12.5,1366x768,No,No,Intel Core i5,2.6,8,Intel HD Graphics,0,256,0,Windows,1.26,932.47
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,2.1,523.64
+HP,Notebook,15.6,1366x768,No,No,AMD A12-Series,2.5,8,AMD Radeon R7,2000,0,0,Windows,2.04,422.27
+Dell,Gaming,15.6,3840x2160,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,Windows,2.62,1127.16
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Nvidia GeForce,1000,0,0,Windows,2.4,408.84
+HP,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,12,AMD Radeon RX ,1000,0,0,Windows,3.74,1174.15
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,512,0,Windows,2.9,1621.26
+Samsung,Ultrabook,13.3,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,0.81,1006.32
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,1000,0,0,Windows,1.98,645.15
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,AMD Radeon R5,0,256,0,Windows,2.18,530.22
+Lenovo,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.32,1248.0
+Razer,Ultrabook,12.5,3840x2160,Yes,Yes,Intel Core i7,2.5,16,Intel HD Graphics,0,512,0,Windows,1.29,1207.72
+HP,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,16,ChromeOS,1.23,258.46
+Dell,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,128,0,Windows,4.36,1681.69
+Dell,Notebook,14.0,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,1.76,506.85
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,2.1,328.88
+Toshiba,Ultrabook,14.0,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,128,0,Windows,1.25,731.75
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.13,1677.65
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,0,256,0,Windows,2.4,804.92
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,0,256,Windows,1.13,1258.74
+Toshiba,Notebook,14.0,1366x768,No,No,Intel Pentium Dual Core,2.1,4,Intel HD Graphics,0,128,0,Windows,1.75,334.99
+Asus,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.1,911.66
+Dell,Notebook,14.0,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,1.76,392.73
+Acer,Netbook,11.6,1366x768,No,Yes,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,32,ChromeOS,1.35,238.32
+Acer,Notebook,14.0,1920x1080,No,Yes,Intel Core i3,2.4,8,Intel HD Graphics,0,128,0,Windows,1.5,415.55
+Razer,Gaming,17.3,3840x2160,Yes,No,Intel Core i7,2.9,32,Nvidia GeForce GTX,0,512,0,Windows,3.49,3691.63
+Lenovo,Ultrabook,14.0,2560x1440,No,Yes,Intel Core i7,2.6,16,Intel HD Graphics,0,512,0,Windows,1.1,1409.12
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Nvidia GeForce,1000,0,0,Linux,2.1,348.42
+Lenovo,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.7,796.2
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.6,8,Intel HD Graphics,0,256,0,Windows,1.32,1107.69
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,3.21,1862.69
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.9,1623.94
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,500,0,0,Windows,2.0,449.12
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Quad Core,1.6,4,Intel HD Graphics,0,0,16,ChromeOS,1.5,218.18
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,128,0,0,Windows,2.3,396.08
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,512,0,Windows,2.73,1207.72
+Dell,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,32,Nvidia GeForce GTX,1000,512,0,Windows,4.42,2062.92
+HP,Notebook,17.3,1600x900,No,No,Intel Core i5,2.5,8,Nvidia GeForce,1000,0,0,Windows,2.63,610.91
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,128,0,Windows,2.18,479.32
+HP,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,512,0,Windows,1.54,1255.38
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,4,AMD Radeon R5,0,256,0,Windows,2.18,496.11
+HP,2 in 1 Convertible,11.6,1366x768,Yes,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,ChromeOS,1.4,412.87
+Asus,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i5,2.3,8,Nvidia GeForce,0,512,0,Windows,1.45,688.78
+HP,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.28,1528.61
+HP,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,512,0,Windows,1.54,985.51
+HP,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,128,0,No OS,1.86,200.73
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,128,0,Windows,2.1,1274.85
+Dell,Notebook,17.3,1920x1080,No,No,Intel Core i7,2.7,8,AMD Radeon R7,1000,0,0,Linux,2.83,580.7
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce,0,256,0,Windows,1.96,1277.54
+Asus,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia GeForce GTX,0,256,0,Windows,2.3,528.34
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,128,0,Windows,1.9,634.4
+Asus,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,1000,0,0,Windows,2.0,301.43
+HP,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i7,2.8,8,Intel HD Graphics,0,256,0,Windows,1.28,1717.93
+Dell,Notebook,13.3,1920x1080,Yes,No,Intel Core i5,2.3,8,Intel HD Graphics,1000,0,0,Windows,1.62,435.69
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,No OS,2.2,314.85
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Windows,2.3,571.07
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.6,8,AMD Radeon R7,0,256,0,Windows,1.84,905.62
+Toshiba,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,128,0,Windows,1.05,862.66
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,0,0,No OS,2.5,682.74
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i7,2.5,16,Intel Iris Plus Graphics,0,512,0,Windows,1.29,1503.77
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,2.07,610.91
+Toshiba,Ultrabook,13.3,1366x768,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.2,735.1
+Lenovo,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.37,1309.09
+Acer,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.56,605.54
+Dell,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia Quadro,1000,0,0,Windows,2.23,1193.62
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,2.38,708.25
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,No OS,2.2,321.57
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,2.0,931.8
+Lenovo,Notebook,13.3,1920x1080,No,Yes,Intel Core i3,2.4,4,Intel HD Graphics,0,180,0,Windows,1.44,493.43
+Samsung,Ultrabook,15.0,1920x1080,No,No,Intel Core i7,2.7,16,Nvidia GeForce,0,256,0,Windows,1.23,1241.29
+Dell,Ultrabook,12.5,1920x1080,No,No,Intel Core i7,2.8,8,Intel HD Graphics,0,256,0,Windows,1.6,1134.54
+Asus,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,1000,0,0,Linux,2.0,267.85
+Xiaomi,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i5,2.3,8,Nvidia GeForce,0,256,0,Windows,1.28,627.69
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Nvidia GeForce,1000,128,0,Windows,2.18,612.59
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,2.04,563.24
+HP,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,1.28,1141.26
+HP,2 in 1 Convertible,15.6,1366x768,Yes,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,2.3,459.73
+Asus,Notebook,14.1,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.65,233.62
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.5,8,Nvidia GeForce,1000,0,0,Windows,2.2,449.12
+Dell,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,500,0,0,Windows,2.2,247.72
+HP,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,1.28,1207.72
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,Linux,2.18,305.92
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i5,2.5,12,Nvidia GeForce GTX,1000,128,0,Windows,2.2,919.65
+Acer,Netbook,11.6,1366x768,No,Yes,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,32,ChromeOS,1.25,199.38
+Lenovo,Notebook,17.3,1600x900,No,No,AMD A4-Series,2.2,4,AMD Radeon R3,500,0,0,Windows,2.8,254.43
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,128,0,Windows,1.95,849.23
+HP,2 in 1 Convertible,13.3,3200x1800,Yes,No,Intel Core i7,2.7,16,Intel HD Graphics,0,256,0,Windows,1.42,939.19
+Samsung,Ultrabook,15.0,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.17,1140.59
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.32,1207.72
+MSI,Gaming,17.3,3840x2160,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,2000,512,0,Windows,2.43,1778.35
+Toshiba,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.05,990.21
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Linux,2.62,623.66
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,1000,0,0,Windows,2.04,604.2
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,Windows,2.18,412.2
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.6,8,Intel HD Graphics,500,0,0,Windows,1.9,627.69
+Dell,2 in 1 Convertible,13.3,3200x1800,Yes,No,Intel Core i7,1.3,8,Intel HD Graphics,0,512,0,Windows,1.24,1351.45
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.7,32,Nvidia GeForce GTX,0,512,0,Windows,3.58,858.63
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i7,1.3,16,Intel HD Graphics,0,256,0,Windows,1.22,1107.02
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,0,256,Windows,1.13,1375.55
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,512,0,Windows,1.95,1317.81
+LG,Ultrabook,15.6,1920x1080,Yes,Yes,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.08,1409.12
+HP,Netbook,12.5,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.26,995.58
+Acer,Notebook,15.6,1920x1080,No,Yes,Intel Celeron Dual Core,1.5,4,Intel HD Graphics,0,0,16,ChromeOS,2.2,241.01
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.3,8,Nvidia GeForce GTX,1000,128,0,Windows,2.6,529.68
+LG,Ultrabook,14.0,1920x1080,Yes,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,0.98,1274.85
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.8,8,Intel HD Graphics,0,256,0,Windows,1.6,808.95
+HP,Ultrabook,12.5,3840x2160,Yes,No,Intel Core M,1.2,8,Intel HD Graphics,0,240,0,Windows,1.09,2081.12
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,6,Nvidia GeForce,0,256,0,Windows,2.2,529.68
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,2.04,684.08
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.4,4,Intel HD Graphics,1000,0,0,Windows,2.4,334.99
+Lenovo,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,128,0,Windows,1.44,591.44
+HP,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.49,644.47
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.7,1073.45
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,128,0,Windows,2.6,905.62
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,Windows,2.2,751.83
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,AMD Radeon R5,1000,0,0,Windows,2.18,459.85
+HP,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,2.5,8,AMD Radeon R7,0,256,0,Windows,1.84,870.71
+Lenovo,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,512,0,Windows,1.37,1225.17
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,1.95,490.0
+Lenovo,Ultrabook,12.5,1920x1080,No,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.36,1107.69
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,2.31,782.1
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,1000,0,0,Windows,2.18,475.34
+HP,Notebook,14.0,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,1.95,771.36
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,1000,0,0,Windows,2.2,207.44
+HP,Ultrabook,12.5,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,1.26,1060.03
+HP,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,1000,0,0,No OS,1.86,193.95
+Lenovo,2 in 1 Convertible,13.3,3200x1800,Yes,Yes,Intel Core i7,2.2,16,Intel Iris Graphics,0,1000,0,Windows,1.3,1207.72
+Toshiba,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.3,4,Intel HD Graphics,0,128,0,Windows,1.47,741.82
+HP,Netbook,12.5,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.26,1120.45
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Windows,2.18,375.0
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.2,804.92
+Dell,Gaming,17.3,2560x1440,No,No,Intel Core i7,2.7,16,Nvidia GeForce GTX,1000,512,0,Windows,4.36,1851.52
+HP,Gaming,17.3,1920x1080,No,Yes,Intel Core i5,2.3,8,Nvidia GeForce GTX,1000,128,0,Windows,2.75,939.19
+Asus,Notebook,17.3,1600x900,No,No,Intel Pentium Quad Core,1.6,4,Nvidia GeForce,1000,0,0,Windows,2.8,355.8
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,2.23,415.55
+Toshiba,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,2.2,751.22
+Lenovo,2 in 1 Convertible,11.3,1920x1080,Yes,Yes,Intel Core M,1.2,8,Intel HD Graphics,0,256,0,Windows,1.1,872.06
+Lenovo,Gaming,15.6,1920x1080,No,Yes,AMD FX,2.1,16,AMD Radeon R9,1000,512,0,Windows,2.5,670.66
+Dell,Ultrabook,12.5,1920x1080,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.36,988.33
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,1000,0,0,No OS,2.2,459.86
+Dell,Notebook,17.3,1600x900,No,No,Intel Core i3,2.0,4,AMD Radeon R7,1000,0,0,Windows,2.36,442.41
+Acer,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,32,ChromeOS,1.68,234.29
+HP,Workstation,15.6,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia Quadro,0,8,0,Windows,2.0,1509.82
+Dell,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.8,8,Intel HD Graphics,0,256,0,Windows,1.36,1191.61
+Toshiba,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.2,980.14
+Asus,2 in 1 Convertible,12.5,1920x1080,No,No,Intel Core M,1.2,8,Intel HD Graphics,0,0,64,ChromeOS,1.2,778.07
+Lenovo,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.6,8,Intel HD Graphics,0,256,0,Windows,1.7,999.6
+Dell,Gaming,17.3,3840x2160,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,512,0,Windows,4.36,2117.37
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,1.2,8,Intel HD Graphics,0,256,0,Windows,1.24,1274.85
+HP,2 in 1 Convertible,11.6,1366x768,Yes,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,0,256,0,Windows,1.45,520.28
+Dell,Ultrabook,13.3,3200x1800,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.3,851.24
+Acer,2 in 1 Convertible,11.6,1366x768,Yes,Yes,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,32,ChromeOS,1.25,261.15
+Toshiba,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.4,8,Intel HD Graphics,0,256,0,Windows,1.2,1030.49
+Lenovo,Ultrabook,12.5,1920x1080,No,Yes,Intel Core i5,2.6,8,Intel HD Graphics,0,256,0,Windows,1.36,1181.54
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,12,Nvidia GeForce GTX,1000,128,0,Windows,2.4,677.37
+Toshiba,Ultrabook,12.5,1920x1080,Yes,No,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.1,1201.68
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Nvidia GeForce,1000,0,0,Windows,2.04,568.28
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,Linux,2.25,312.58
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,1.9,553.85
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.4,4,Intel HD Graphics,500,0,0,Windows,2.04,459.86
+Dell,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,32,Nvidia GeForce GTX,1000,256,0,Windows,4.42,2114.01
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,6,Nvidia GeForce,0,256,0,Windows,2.4,466.57
+Dell,2 in 1 Convertible,13.3,3200x1800,Yes,No,Intel Core i7,1.3,16,Intel HD Graphics,0,512,0,Windows,1.22,1274.85
+Dell,Ultrabook,14.0,2560x1440,Yes,No,Intel Core i7,2.6,8,Intel HD Graphics,0,256,0,Windows,1.5,1317.8
+Dell,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.6,32,Nvidia GeForce GTX,1000,256,0,Windows,4.42,1879.72
+Toshiba,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.95,792.17
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.73,1376.16
+HP,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.7,8,Nvidia GeForce,1000,128,0,Windows,2.04,657.23
+Asus,2 in 1 Convertible,15.6,3840x2160,Yes,No,Intel Core i7,2.7,16,Nvidia GeForce GTX,2000,512,0,Windows,2.3,1207.72
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.99,1174.15
+Dell,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i7,2.7,12,Intel HD Graphics,0,512,0,Windows,2.19,872.06
+Toshiba,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,0,128,0,Windows,1.2,802.24
+Lenovo,Notebook,15.6,1920x1080,No,No,AMD A12-Series,3.6,6,AMD Radeon ,0,256,0,Windows,2.2,368.56
+Fujitsu,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,0,256,0,Windows,2.3,435.69
+Toshiba,Notebook,14.0,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,1.75,614.27
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,AMD Radeon R5,500,0,0,Windows,2.25,402.13
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,Windows,2.04,541.09
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.5,798.21
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i7,2.7,8,AMD Radeon R7,1000,0,0,Windows,2.36,502.82
+Dell,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,128,0,Windows,1.6,751.22
+HP,Netbook,12.5,1920x1080,No,No,Intel Core M,1.2,8,Intel HD Graphics,0,512,0,Windows,0.97,1280.89
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,AMD Radeon ,1000,128,0,Windows,2.1,334.99
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,128,0,No OS,1.9,181.67
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,2.3,905.62
+Asus,Notebook,13.3,3200x1800,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.4,772.03
+HP,Ultrabook,13.3,1920x1080,Yes,Yes,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.11,905.62
+Acer,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.1,4,Intel HD Graphics,500,0,0,Windows,2.4,255.1
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.5,1207.72
+HP,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,512,0,Windows,1.48,1402.4
+Acer,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.7,845.87
+HP,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.34,798.21
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,0,128,0,Windows,2.18,367.22
+HP,Notebook,14.0,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,1.64,522.96
+Toshiba,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,0,128,0,Windows,1.2,802.24
+HP,Notebook,14.0,1366x768,No,No,Intel Core i5,2.4,4,Intel HD Graphics,0,256,0,Windows,1.48,738.45
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,1.95,808.95
+HP,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.6,8,Intel HD Graphics,0,256,0,Windows,1.43,972.75
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,Windows,1.64,704.4
+HP,Notebook,14.0,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,500,0,0,Windows,1.64,459.19
+HP,Ultrabook,12.5,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,1.26,1033.17
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,1.48,1067.41
+HP,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.54,1266.94
+HP,Notebook,13.3,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,500,0,0,Windows,1.49,537.06
+Toshiba,Notebook,13.3,1366x768,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.5,812.31
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,0,256,0,Windows,2.04,516.92
+Lenovo,Notebook,17.3,3840x2160,No,Yes,Intel Core i7,2.7,16,Nvidia Quadro,0,512,0,Windows,2.4,1992.5
+Toshiba,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.47,1000.28
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.43,1496.39
+Dell,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i3,2.3,4,Intel HD Graphics,1000,0,0,Windows,2.08,534.37
+Toshiba,Ultrabook,13.3,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.2,1067.41
+HP,Notebook,13.3,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.11,771.36
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,1.64,795.81
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.4,8,Intel HD Graphics,500,0,0,Windows,2.09,702.5
+HP,Ultrabook,12.5,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,1.26,1046.6
+HP,Notebook,14.0,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,2.31,798.21
+HP,Notebook,14.0,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,1.95,711.61
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.29,1090.24
+HP,Notebook,17.3,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce,0,256,0,Windows,2.63,725.03
+HP,Notebook,14.0,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,1.64,653.2
+Acer,Notebook,15.6,1366x768,No,No,AMD A9-Series,3.0,6,AMD Radeon R5,1000,0,0,Windows,2.1,274.57
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.7,800.09
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.95,802.24
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.84,825.06
+HP,Ultrabook,12.5,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.26,905.62
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,2.04,498.13
+Toshiba,Ultrabook,14.0,1920x1080,No,Yes,Intel Core i7,2.6,8,Intel HD Graphics,0,256,0,Windows,1.47,1158.04
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.4,8,Intel HD Graphics,0,256,0,Windows,2.09,713.59
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.64,678.38
+Lenovo,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i7,2.5,4,Intel HD Graphics,0,256,0,Windows,1.8,568.61
+Vero,Notebook,14.0,1366x768,No,No,Intel Atom,1.44,2,Intel HD Graphics,0,0,32,Windows,1.45,141.52
+Toshiba,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.5,16,Nvidia GeForce,0,256,0,Windows,2.4,956.64
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,2.3,704.63
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,1.54,671.33
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.4,8,Intel HD Graphics,500,256,0,Windows,1.84,1412.03
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.43,986.18
+MSI,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.7,16,Nvidia GeForce GTX,1000,256,0,Windows,3.78,1037.63
+Lenovo,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,128,0,Windows,4.6,1537.33
+Asus,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,0,0,16,ChromeOS,1.2,193.28
+Lenovo,Notebook,14.0,2560x1440,No,Yes,Intel Core i7,2.6,16,Intel HD Graphics,0,256,0,Windows,1.1,1758.88
+HP,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia GeForce,1000,0,0,Windows,1.91,657.23
+Dell,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i5,2.7,8,Intel HD Graphics,0,256,0,Windows,2.3,734.43
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,0,256,0,Windows,2.04,657.23
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i7,2.7,16,Intel HD Graphics,0,1000,0,Windows,1.2,1513.17
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.3,4,Intel HD Graphics,500,0,0,Windows,2.31,473.39
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,No OS,1.96,334.99
+Acer,Notebook,15.6,1366x768,No,No,AMD A8-Series,2.2,8,AMD Radeon R5,1000,0,0,Windows,2.4,301.43
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i7,2.7,12,Intel HD Graphics,0,256,0,Windows,1.6,872.06
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,256,0,Windows,2.94,1221.15
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,0,0,No OS,4.0,669.99
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Intel HD Graphics,1000,0,0,Windows,2.25,375.27
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,16,AMD Radeon R7,2000,0,0,Windows,2.32,664.61
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,256,0,Windows,1.8,1294.99
+Dell,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.29,978.8
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.7,64,Nvidia GeForce GTX,0,1000,0,Windows,3.58,2668.53
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.62,535.73
+Dell,Gaming,15.6,3840x2160,No,No,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,256,0,Windows,3.21,892.19
+Apple,Ultrabook,12.0,2304x1440,No,Yes,Intel Core M,1.1,8,Intel HD Graphics,0,0,256,MacOS,0.92,872.73
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.3,4,Intel HD Graphics,500,0,0,Windows,2.06,323.57
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,2.31,804.92
+HP,Ultrabook,12.5,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.26,804.92
+HP,Notebook,13.3,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.49,731.75
+Lenovo,Ultrabook,12.5,1920x1080,Yes,Yes,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.3,1150.31
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i5,2.3,8,AMD Radeon R5,1000,0,0,Windows,3.0,442.41
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.3,4,Nvidia GeForce GTX,1000,0,0,Windows,2.3,655.89
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,3.78,1677.65
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,2.1,362.52
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,2.31,631.05
+Lenovo,Ultrabook,12.5,2560x1440,Yes,Yes,Intel Core M,1.2,8,Intel HD Graphics,0,512,0,Windows,0.99,939.19
+Lenovo,2 in 1 Convertible,10.1,1920x1200,Yes,Yes,Intel Atom,1.44,4,Intel HD Graphics,0,0,64,Windows,0.69,433.86
+HP,Ultrabook,13.3,3840x2160,No,Yes,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.3,1375.55
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.18,503.5
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,1.54,692.13
+HP,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.5,8,AMD FirePro ,0,256,0,Windows,1.9,1003.64
+Lenovo,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,180,0,Windows,1.7,804.92
+HP,Notebook,13.3,3200x1800,No,No,Intel Pentium Dual Core,1.5,4,Intel HD Graphics,0,0,32,ChromeOS,1.29,412.87
+Acer,Notebook,15.6,1366x768,No,No,AMD A8-Series,2.2,4,AMD Radeon R5,500,0,0,Windows,2.4,259.8
+Dell,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,500,0,0,Linux,2.2,264.16
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,No OS,1.86,232.27
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,256,0,Windows,2.7,1073.45
+Dell,Ultrabook,13.3,1920x1080,No,Yes,Intel Core i5,1.6,4,AMD Radeon ,0,256,0,Windows,1.4,549.38
+HP,Netbook,12.5,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,0,128,0,Windows,2.4,1073.45
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,256,0,Windows,2.4,536.39
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,AMD Radeon R7,1000,0,0,Windows,2.36,428.84
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia GeForce GTX,0,256,0,Windows,2.6,1073.45
+HP,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,1000,0,0,Windows,1.96,335.66
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,128,0,Windows,4.3,1543.38
+Dell,Ultrabook,12.5,1366x768,No,No,Intel Core i3,2.3,4,Intel HD Graphics,500,0,0,Windows,1.5,762.06
+Dell,Ultrabook,12.5,1366x768,No,No,Intel Core i3,2.3,4,Intel HD Graphics,0,128,0,Windows,1.5,783.42
+Acer,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.5,4,Intel HD Graphics,0,16,0,ChromeOS,2.2,140.31
+HP,Workstation,17.3,1920x1080,No,Yes,Intel Core i7,2.6,8,AMD FirePro ,1000,0,0,Windows,3.0,1946.18
+Lenovo,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,512,0,Windows,2.4,804.92
+Dell,Ultrabook,12.5,1366x768,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.5,948.65
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,128,0,Windows,2.9,1014.5
+Lenovo,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i5,2.3,4,Intel HD Graphics,0,256,0,Windows,2.1,582.04
+HP,Notebook,15.6,1920x1080,No,No,AMD A6-Series,2.5,4,AMD Radeon R4,1000,0,0,Windows,2.1,267.19
+Asus,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,128,0,Windows,2.59,898.91
+HP,Notebook,13.3,3200x1800,Yes,No,Intel Core M,1.1,8,Intel HD Graphics,0,256,0,Windows,1.16,1140.59
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,AMD Radeon R5,500,0,0,Windows,2.24,516.35
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,0,128,0,Windows,2.1,288.0
+HP,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,512,0,Windows,1.16,1321.84
+Lenovo,2 in 1 Convertible,10.1,1920x1200,Yes,Yes,Intel Atom,1.44,4,Intel HD Graphics,0,0,64,Android,0.69,368.56
+Dell,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,2.4,8,Intel Iris Plus Graphics,0,256,0,Windows,1.23,925.76
+Razer,Ultrabook,12.5,3840x2160,Yes,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.25,690.8
+Toshiba,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.05,1494.38
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,128,0,Windows,3.52,881.11
+Vero,Notebook,13.3,1920x1080,No,No,Intel Atom,1.44,4,Intel HD Graphics,0,0,32,Windows,1.35,131.58
+HP,Notebook,13.3,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.16,1134.54
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.43,1015.72
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Linux,2.09,351.53
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,4,Intel HD Graphics,1000,0,0,Windows,2.0,292.03
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,Yes,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.8,1120.45
+Lenovo,2 in 1 Convertible,10.1,1920x1200,Yes,Yes,Intel Atom,1.44,4,Intel HD Graphics,0,0,64,Windows,0.69,321.57
+HP,Ultrabook,12.5,1366x768,No,No,Intel Core i5,2.4,8,Intel HD Graphics,0,256,0,Windows,1.26,1272.17
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,128,0,No OS,2.4,663.94
+HP,Gaming,17.3,1920x1080,No,Yes,Intel Core i5,2.3,8,Nvidia GeForce GTX,1000,128,0,Windows,3.35,757.93
+HP,Notebook,15.6,1366x768,No,No,Intel Core i7,2.7,8,Intel HD Graphics,2000,0,0,Windows,2.04,422.27
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,Yes,Intel Core i7,2.6,8,Nvidia Quadro,0,512,0,Windows,1.8,1376.48
+Asus,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,0,0,32,Windows,1.5,186.63
+HP,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.84,504.84
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Nvidia GeForce,1000,0,0,Windows,2.23,413.54
+HP,Workstation,17.3,1920x1080,No,Yes,Intel Core i7,2.6,8,Nvidia Quadro,0,256,0,Windows,3.0,2651.34
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,AMD Radeon R7,1000,0,0,Windows,2.5,526.32
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.7,16,Nvidia GeForce GTX,1000,256,0,Windows,3.78,1610.52
+HP,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.88,1457.94
+Lenovo,2 in 1 Convertible,14.0,2560x1440,Yes,Yes,Intel Core i7,2.6,16,Intel HD Graphics,0,512,0,Windows,2.8,1638.04
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.4,767.19
+HP,2 in 1 Convertible,13.3,1920x1080,Yes,No,Intel Core i5,2.4,8,Intel HD Graphics,0,256,0,Windows,1.48,1093.59
+HP,Workstation,15.6,1920x1080,No,Yes,Intel Core i7,2.6,8,Nvidia Quadro,0,256,0,Windows,2.59,1496.39
+HP,2 in 1 Convertible,13.3,2560x1440,Yes,No,Intel Core i7,2.6,8,Intel HD Graphics,0,256,0,Windows,1.48,1207.72
+HP,Workstation,15.6,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia Quadro,0,256,0,Windows,2.0,1274.85
+HP,Ultrabook,12.5,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.26,1542.01
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Windows,2.18,677.97
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.88,1060.03
+Lenovo,2 in 1 Convertible,14.0,2560x1440,Yes,Yes,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.27,1570.24
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,No OS,1.9,227.58
+HP,Notebook,15.6,1366x768,No,No,AMD E-Series,1.8,4,AMD Radeon R2,500,0,0,Windows,1.86,199.38
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.3,8,AMD Radeon R5,1000,0,0,No OS,2.32,402.13
+Dell,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Windows,2.62,804.92
+Dell,Notebook,15.6,3840x2160,Yes,Yes,Intel Core i5,2.3,8,Nvidia GeForce,0,256,0,Windows,2.04,1510.94
+HP,Notebook,15.6,1920x1080,No,No,AMD A6-Series,2.5,4,AMD Radeon ,0,256,0,Windows,1.91,321.49
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.7,1002.16
+Lenovo,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.6,12,Intel HD Graphics,0,512,0,Windows,1.4,1543.38
+HP,2 in 1 Convertible,13.3,2560x1440,Yes,No,Intel Core i7,2.6,8,Intel HD Graphics,0,512,0,Windows,1.48,1370.18
+Lenovo,Ultrabook,14.0,1920x1080,No,No,Intel Core i7,2.6,8,Intel HD Graphics,0,256,0,Windows,1.7,1006.32
+MSI,Gaming,14.0,1920x1080,No,No,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,256,0,Windows,1.7,1187.58
+HP,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,0,0,Windows,2.62,603.52
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,8,Intel HD Graphics,1000,0,0,Windows,2.2,308.14
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,No OS,2.1,320.22
+Dell,Gaming,15.6,3840x2160,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.62,1005.65
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.95,933.15
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Nvidia GeForce,1000,0,0,Windows,2.2,314.18
+HP,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,32,Windows,1.44,167.16
+MSI,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.7,8,Nvidia GeForce GTX,1000,0,0,Windows,2.2,563.24
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.96,455.83
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i7,1.8,16,Intel UHD Graphics,0,512,0,Windows,2.1,778.07
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Windows,2.2,247.72
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,No OS,2.1,267.19
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,1000,0,0,No OS,2.2,475.97
+Asus,Notebook,14.0,1920x1080,No,No,Intel Core i3,2.4,4,Intel HD Graphics,0,256,0,Windows,2.0,516.25
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,0,512,0,Windows,3.31,876.08
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,128,0,Windows,1.91,1445.62
+HP,Notebook,15.6,1366x768,No,No,Intel Core i3,2.3,4,Intel HD Graphics,500,0,0,Windows,2.07,436.36
+Lenovo,2 in 1 Convertible,14.0,2560x1440,Yes,Yes,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.36,1098.96
+Lenovo,Ultrabook,15.6,1920x1080,No,No,Intel Core i7,2.7,6,Nvidia GeForce,0,256,0,Windows,1.54,557.87
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.7,8,Nvidia GeForce,0,256,0,Linux,1.98,600.85
+Acer,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,2.0,4,Intel HD Graphics,500,0,0,Windows,2.1,223.55
+HP,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.6,6,Nvidia GeForce GTX,1000,0,0,Windows,2.18,536.39
+Asus,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,256,0,Windows,2.591,610.24
+Dell,2 in 1 Convertible,15.6,1920x1080,Yes,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,2.09,791.5
+Acer,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,4,Nvidia GeForce,0,256,0,Windows,2.23,463.89
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i5,2.4,8,Intel HD Graphics,0,256,0,Linux,1.23,737.79
+Acer,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,4.2,1744.78
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Nvidia GeForce GTX,1000,0,0,Windows,2.4,549.82
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,1.86,325.59
+Apple,Ultrabook,12.0,2304x1440,No,Yes,Intel Core M,1.1,8,Intel HD Graphics,0,0,256,MacOS,0.92,780.75
+Dell,2 in 1 Convertible,13.3,1920x1080,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.6,804.92
+HP,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.8,12,Nvidia GeForce GTX,1000,128,0,Windows,2.21,890.85
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon R5,1000,0,0,No OS,1.9,247.05
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,512,0,Windows,4.3,1443.36
+Acer,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,2.0,4,Intel HD Graphics,1000,0,0,Linux,2.1,182.6
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.43,1375.48
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,AMD Radeon R7,0,128,0,Windows,2.3,334.99
+Lenovo,Notebook,15.6,1366x768,No,No,Intel Core i7,2.5,8,Nvidia GeForce,500,0,0,No OS,2.2,422.27
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.2,1799.16
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,0,0,Windows,2.2,784.78
+Dell,Notebook,15.6,1920x1080,No,No,Intel Core i5,2.5,8,AMD Radeon R7,0,256,0,Windows,2.36,596.81
+HP,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,1.91,388.7
+Lenovo,Notebook,15.6,1366x768,No,No,AMD E-Series,2.2,4,AMD Radeon R2,500,0,0,Windows,2.2,200.73
+Acer,Notebook,17.3,1600x900,No,No,Intel Core i3,2.0,8,Nvidia GeForce,1000,0,0,Windows,3.3,422.27
+Asus,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.2,1644.08
+Apple,Ultrabook,12.0,2304x1440,No,Yes,Intel Core M,1.2,8,Intel HD Graphics,0,0,512,MacOS,0.92,858.63
+Asus,Notebook,15.6,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,128,0,Windows,2.2,1174.15
+MSI,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,256,0,Windows,2.43,1308.41
+Dell,2 in 1 Convertible,15.6,1920x1080,Yes,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,Windows,2.191,670.66
+Asus,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.9,1308.42
+Acer,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.5,2,Intel HD Graphics,0,32,0,ChromeOS,1.3,116.81
+Acer,Notebook,17.3,1600x900,No,No,Intel Core i3,2.0,4,Nvidia GeForce,1000,0,0,Windows,3.3,401.45
+Lenovo,Notebook,17.3,1600x900,No,No,Intel Core i5,2.5,8,Intel HD Graphics,1000,0,0,No OS,2.8,361.85
+Lenovo,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,128,0,Windows,2.6,853.93
+Acer,2 in 1 Convertible,14.0,1920x1080,Yes,Yes,Intel Core i7,1.3,8,Intel HD Graphics,0,256,0,Windows,1.2,771.36
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.6,8,Intel HD Graphics,0,256,0,Windows,2.3,1026.46
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,128,0,Windows,2.2,990.95
+HP,Notebook,15.6,1920x1080,No,No,AMD A12-Series,2.7,6,AMD Radeon ,1000,0,0,Windows,2.1,355.13
+Dell,Ultrabook,12.5,1920x1080,Yes,No,Intel Core i5,2.4,8,Intel HD Graphics,0,256,0,Windows,1.26,1150.23
+Dell,2 in 1 Convertible,15.0,1920x1080,Yes,No,Intel Core i3,2.4,4,Intel HD Graphics,500,0,0,Windows,2.08,341.71
+Asus,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,1000,0,0,Windows,2.65,207.44
+Dell,Ultrabook,13.3,3200x1800,Yes,No,Intel Core i7,2.7,8,Intel HD Graphics,0,256,0,Windows,1.29,991.55
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,1000,0,0,Linux,2.18,350.34
+Lenovo,Gaming,15.6,1920x1080,Yes,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,128,0,Windows,2.6,690.8
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.8,8,Nvidia GeForce GTX,1000,128,0,Windows,2.2,771.36
+Lenovo,Netbook,12.5,1920x1080,Yes,Yes,Intel Core i7,2.5,16,Intel HD Graphics,0,512,0,Windows,1.3,1107.69
+Razer,Gaming,14.0,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,0,1000,0,Windows,1.95,2348.98
+Dell,Notebook,15.6,1366x768,Yes,No,Intel Core i3,2.4,8,Intel HD Graphics,1000,0,0,Windows,2.3,314.86
+MSI,Gaming,17.3,1920x1080,No,No,Intel Core i7,2.8,16,Nvidia GeForce GTX,1000,256,0,Windows,2.7,1072.78
+Apple,Ultrabook,11.6,1366x768,No,No,Intel Core i5,1.6,4,Intel HD Graphics,0,0,256,MacOS,1.08,643.8
+HP,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.0,4,Intel HD Graphics,1000,0,0,Windows,2.1,320.89
+HP,Ultrabook,14.0,2560x1440,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.54,1475.71
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i5,2.3,4,Intel HD Graphics,500,0,0,Windows,2.24,494.77
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,128,0,Windows,2.3,784.78
+Lenovo,Notebook,13.3,1920x1080,No,Yes,Intel Core i7,2.7,16,Intel HD Graphics,0,512,0,Windows,1.4,1006.32
+Lenovo,Notebook,15.6,1920x1080,No,No,AMD A12-Series,3.6,6,AMD Radeon ,0,256,0,Windows,2.2,401.17
+Asus,Ultrabook,13.3,1920x1080,No,No,Intel Core i7,2.5,8,Intel HD Graphics,0,256,0,Windows,1.45,859.3
+Acer,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Linux,2.4,242.89
+Dell,2 in 1 Convertible,17.3,1920x1080,Yes,No,Intel Core i7,2.7,16,Nvidia GeForce,0,512,0,Windows,2.77,1207.72
+HP,Notebook,14.0,1920x1080,No,No,Intel Core i5,2.3,4,Intel HD Graphics,0,256,0,Windows,1.54,738.45
+Dell,Notebook,14.0,1366x768,No,No,Intel Core i5,2.5,4,Intel HD Graphics,500,0,0,Windows,1.6,587.41
+Asus,Gaming,15.6,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,256,0,Windows,2.34,1560.84
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i5,2.5,8,Intel HD Graphics,0,256,0,No OS,2.3,384.67
+Dell,2 in 1 Convertible,13.3,3200x1800,Yes,No,Intel Core i5,1.2,8,Intel HD Graphics,0,256,0,Windows,1.24,1217.12
+Dell,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,500,0,0,Linux,2.2,217.51
+HP,Notebook,15.6,1366x768,No,No,AMD A6-Series,2.5,4,AMD Radeon R4,500,0,0,Windows,1.86,267.86
+Lenovo,Notebook,15.6,1920x1080,No,No,Intel Core i3,2.3,6,Nvidia GeForce,0,128,0,Windows,2.4,381.99
+Lenovo,Notebook,14.0,1920x1080,No,Yes,Intel Core i5,2.3,8,Intel HD Graphics,0,256,0,Windows,1.9,719.66
+Dell,Notebook,15.6,1366x768,No,No,Intel Pentium Quad Core,1.6,4,Intel HD Graphics,500,0,0,Windows,2.2,298.06
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.1,4,Intel HD Graphics,1000,0,0,Windows,2.0,227.58
+Asus,Gaming,17.3,1920x1080,No,Yes,Intel Core i7,2.6,16,Nvidia GeForce GTX,1000,128,0,Windows,4.0,1275.52
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.0,4,Intel HD Graphics,500,0,0,Windows,2.29,328.95
+MSI,Gaming,15.6,1920x1080,No,No,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,128,0,Windows,2.4,825.06
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,No,Intel Core i5,2.3,4,Intel HD Graphics,0,128,0,Windows,1.8,559.22
+Asus,Ultrabook,13.3,1920x1080,No,Yes,Intel Core M,0.9,8,Intel HD Graphics,0,512,0,Windows,1.2,489.4
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,6,Intel HD Graphics,1000,0,0,Windows,2.3,308.14
+Acer,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Linux,2.4,194.01
+Dell,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,500,0,0,Windows,2.2,254.43
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,0,0,Windows,2.6,603.52
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i7,2.7,8,AMD Radeon R5,1000,0,0,Linux,2.3,541.08
+HP,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,32,Windows,1.17,140.31
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i7,2.5,4,Nvidia GeForce,500,0,0,Windows,2.2,483.57
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,Yes,Intel Core i7,2.5,4,Intel HD Graphics,0,128,0,Windows,1.8,428.31
+Lenovo,2 in 1 Convertible,13.3,3200x1800,Yes,Yes,Intel Core i7,2.5,16,Intel HD Graphics,0,512,0,Windows,1.3,1006.32
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,64,Windows,1.5,153.73
+HP,Notebook,15.6,1366x768,No,No,Intel Core i7,2.5,6,AMD Radeon R5,1000,0,0,Windows,2.19,512.89
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Windows,2.2,247.72
+Asus,Ultrabook,13.3,1920x1080,No,Yes,Intel Core M,0.9,8,Intel HD Graphics,0,512,0,Windows,1.2,489.4
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,6,Intel HD Graphics,1000,0,0,Windows,2.3,308.14
+Acer,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Linux,2.4,194.01
+Dell,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,500,0,0,Windows,2.2,254.43
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,0,0,Windows,2.6,603.52
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i7,2.7,8,AMD Radeon R5,1000,0,0,Linux,2.3,541.08
+HP,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,32,Windows,1.17,140.31
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i7,2.5,4,Nvidia GeForce,500,0,0,Windows,2.2,483.57
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,Yes,Intel Core i7,2.5,4,Intel HD Graphics,0,128,0,Windows,1.8,428.31
+Lenovo,2 in 1 Convertible,13.3,3200x1800,Yes,Yes,Intel Core i7,2.5,16,Intel HD Graphics,0,512,0,Windows,1.3,1006.32
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,64,Windows,1.5,153.73
+HP,Notebook,15.6,1366x768,No,No,Intel Core i7,2.5,6,AMD Radeon R5,1000,0,0,Windows,2.19,512.89
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Windows,2.2,247.72
+Asus,Ultrabook,13.3,1920x1080,No,Yes,Intel Core M,0.9,8,Intel HD Graphics,0,512,0,Windows,1.2,489.4
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i3,2.4,6,Intel HD Graphics,1000,0,0,Windows,2.3,308.14
+Acer,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Linux,2.4,194.01
+Dell,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,500,0,0,Windows,2.2,254.43
+Lenovo,Notebook,15.6,1920x1080,No,Yes,Intel Core i7,2.6,8,Nvidia GeForce GTX,1000,0,0,Windows,2.6,603.52
+Dell,Notebook,15.6,1366x768,No,No,Intel Core i7,2.7,8,AMD Radeon R5,1000,0,0,Linux,2.3,541.08
+HP,Netbook,11.6,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,32,Windows,1.17,140.31
+Asus,Notebook,15.6,1366x768,No,No,Intel Core i7,2.5,4,Nvidia GeForce,500,0,0,Windows,2.2,483.57
+Lenovo,2 in 1 Convertible,14.0,1920x1080,Yes,Yes,Intel Core i7,2.5,4,Intel HD Graphics,0,128,0,Windows,1.8,428.31
+Lenovo,2 in 1 Convertible,13.3,3200x1800,Yes,Yes,Intel Core i7,2.5,16,Intel HD Graphics,0,512,0,Windows,1.3,1006.32
+Lenovo,Notebook,14.0,1366x768,No,No,Intel Celeron Dual Core,1.6,2,Intel HD Graphics,0,0,64,Windows,1.5,153.73
+HP,Notebook,15.6,1366x768,No,No,Intel Core i7,2.5,6,AMD Radeon R5,1000,0,0,Windows,2.19,512.89
+Asus,Notebook,15.6,1366x768,No,No,Intel Celeron Dual Core,1.6,4,Intel HD Graphics,500,0,0,Windows,2.2,247.72
