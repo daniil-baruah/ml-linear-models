@@ -1,0 +1,23 @@
+{
+    "project": "MPG Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 0.024732340877710143,
+        "l1_ratio": 0.5,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 0.024732340877710143,
+        "l1_ratio": 0.5,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 2.948723579914674,
+        "MAE": 1.9594363286054624,
+        "R2_train": 0.9136568215765615,
+        "R2_test": 0.8660248975615554,
+        "R2_full": 0.9091807709462704,
+        "Mean_MPG": 23.515345268542198
+    }
+}
