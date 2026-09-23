@@ -1,0 +1,23 @@
+{
+    "project": "Concrete Compressive Strength Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 0.26809088379835694,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 0.26809088379835694,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 7.189474424433224,
+        "MAE": 5.694711116887173,
+        "R2_train": 0.8024273971698388,
+        "R2_test": 0.8365554995351154,
+        "R2_full": 0.7797026963744891,
+        "Mean_Concrete_Compressive_Strength": 35.74219620684918
+    }
+}
