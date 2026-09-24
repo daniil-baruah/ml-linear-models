@@ -1,0 +1,23 @@
+{
+    "project": "Medical Charges Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 56.74841777903755,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 56.74841777903755,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 4933.5139926569045,
+        "MAE": 3063.734150449423,
+        "R2_train": 0.8520840732596515,
+        "R2_test": 0.8071177632395863,
+        "R2_full": 0.8489917967631616,
+        "Mean_Medical_Charges": 13111.87924224231
+    }
+}
