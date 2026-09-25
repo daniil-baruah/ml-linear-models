@@ -1,0 +1,23 @@
+{
+    "project": "Wine Quality Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 0.024454552050424815,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 0.024454552050424815,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 0.6712269241056246,
+        "MAE": 0.5180582190039954,
+        "R2_train": 0.4142160398791961,
+        "R2_test": 0.37100758351688756,
+        "R2_full": 0.4047782254968908,
+        "Mean_Wine_Quality": 5.6643109540636045
+    }
+}
