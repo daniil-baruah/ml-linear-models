@@ -1,0 +1,23 @@
+{
+    "project": "House Rent Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 150.5055176379028,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 150.5055176379028,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 20073.500810516405,
+        "MAE": 9019.307457551029,
+        "R2_train": 0.80941287445998,
+        "R2_test": 0.7494065790676167,
+        "R2_full": 0.8022198894667326,
+        "Mean_House_Rent": 32408.19817912344
+    }
+}
